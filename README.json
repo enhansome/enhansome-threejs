@@ -1,0 +1,397 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "GLSL Shaders"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Shaders"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shader Park",
+          "description": "A JavaScript library for creating interactive procedural 2D and 3D shaders. Helpful for raymarching shaders (the raymarcher is already built-in, SDFs and boolean operation between them already available). Works both in p5js style and GLSL. (to contribute) by @shader-park",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-28T12:37:57Z",
+            "owner": "shader-park",
+            "repo": "shader-park-core",
+            "stars": 824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NodeToy",
+          "description": "The shader tool for the web. NodeToy provides creators a powerful editor to create incredible new shaders and visual effects. If you are a react-three-fiber user, consider checking react-nodetoy. All of this provided by @Nodetoy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-08T20:05:11Z",
+            "owner": "NodeToy",
+            "repo": "react-nodetoy",
+            "stars": 65
+          }
+        }
+      ],
+      "title": "Online tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "camera-controls",
+          "description": "by @yomotsu: A well-rounded camera controller for ThreeJS with damping, boundaries, and smooth transitions between viewpoints — more full-featured than the built-in OrbitControls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-02T04:58:37Z",
+            "owner": "yomotsu",
+            "repo": "camera-controls",
+            "stars": 2423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "three-pivot-controls",
+          "description": "by @bbdaii: A gizmo-style pivot control for vanilla ThreeJS — drag to translate, rotate, and scale objects with mouse and touch, inspired by drei's PivotControls but framework-free.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-19T07:28:17Z",
+            "owner": "bbdaii",
+            "repo": "three-pivot-controls",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Controls"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Related Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-three-fiber",
+          "description": "A declarative way of handling your ThreeJS stuff for React by @pmndrs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T15:38:20Z",
+            "owner": "pmndrs",
+            "repo": "react-three-fiber",
+            "stars": 31699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drei",
+          "description": "Useful helpers for react-three-fiber by @pmndrs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T14:56:16Z",
+            "owner": "pmndrs",
+            "repo": "drei",
+            "stars": 9797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-postprocessing",
+          "description": "A postprocessing wrapper for @react-three/fiber by @pmndrs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T20:41:06Z",
+            "owner": "pmndrs",
+            "repo": "react-postprocessing",
+            "stars": 1345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "morph-hero",
+          "description": "A cinematic portfolio hero component where particles morph between a country flag and a name, with constellation lines and mouse parallax. Single particle system architecture. Live demo at morph-hero.othmaro.dev by @othmarodev",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-07T22:12:25Z",
+            "owner": "othmarodev",
+            "repo": "morph-hero",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "React"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "trois",
+          "description": "The equivalent of r3f for VueJS by @troisjs",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-07-18T13:58:34Z",
+            "owner": "troisjs",
+            "repo": "trois",
+            "stars": 4500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TresJs",
+          "description": "Declarative ThreeJS using Vue Components by @tresjs_dev",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-11T18:53:13Z",
+            "owner": "Tresjs",
+            "repo": "tres",
+            "stars": 3658
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cientos",
+          "description": "Collection of useful helpers and fully functional, ready-made abstractions for TresJs @tresjs_dev",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2026-02-01T09:47:42Z",
+            "owner": "Tresjs",
+            "repo": "cientos",
+            "stars": 369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tres-post-processing",
+          "description": "Post-processing library for TresJs @tresjs_dev",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2026-02-01T09:47:49Z",
+            "owner": "Tresjs",
+            "repo": "post-processing",
+            "stars": 71
+          }
+        }
+      ],
+      "title": "Vue"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Threlte",
+          "description": "A three.js component library for Svelte",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-07-30T06:17:28Z",
+            "owner": "threlte",
+            "repo": "threlte",
+            "stars": 3321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svelte-cubed",
+          "description": "Declarative ThreeJS for Svelte by @Rich-Harris",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2023-01-07T02:57:53Z",
+            "owner": "Rich-Harris",
+            "repo": "svelte-cubed",
+            "stars": 1185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "threlte-postprocessing",
+          "description": "A postprocessing wrapper for Threlte by @1bye",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-20T08:45:17Z",
+            "owner": "1bye",
+            "repo": "threlte-postprocessing",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Svelte"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rapier",
+          "description": "by @dimforge",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-08T21:50:15Z",
+            "owner": "dimforge",
+            "repo": "rapier",
+            "stars": 5632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ammo.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-16T19:27:27Z",
+            "owner": "kripken",
+            "repo": "ammo.js",
+            "stars": 4550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cannon-es",
+          "description": "by @pmndrs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-06T04:10:33Z",
+            "owner": "pmndrs",
+            "repo": "cannon-es",
+            "stars": 2049
+          }
+        }
+      ],
+      "title": "Physics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pathfinding.js",
+          "description": "Useful library with tons of settings",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-20T20:59:22Z",
+            "owner": "qiao",
+            "repo": "PathFinding.js",
+            "stars": 8708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Three-pathfinding",
+          "description": "Three.js plugin for navigation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-08T20:19:28Z",
+            "owner": "donmccurdy",
+            "repo": "three-pathfinding",
+            "stars": 1364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kompute",
+          "description": "Easy to use steering library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T04:49:38Z",
+            "owner": "oguzeroglu",
+            "repo": "Kompute",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Pathfinding"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fft-ocean",
+          "description": "Fast Fourier Transform ocean rendering for Three.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-11-12T18:24:03Z",
+            "owner": "jbouny",
+            "repo": "fft-ocean",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "skunami.js",
+          "description": "Marvellous project with realistic water interaction",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2013-10-26T03:26:27Z",
+            "owner": "skeelogy",
+            "repo": "skunami.js",
+            "stars": 68
+          }
+        }
+      ],
+      "title": "Water"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:26:18.468Z",
+    "original_repository": "AxiomeCG/awesome-threejs",
+    "original_repository_sha": "f99efd9cfd1f5de6904a2f13d00e4863f0e23cd7",
+    "enhanced_repository": "enhansome/enhansome-threejs",
+    "enhanced_repository_description": null,
+    "title": "Awesome Core with stars"
+  }
+}
