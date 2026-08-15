@@ -94,10 +94,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T15:38:20Z",
+            "last_commit": "2026-08-14T14:40:56Z",
             "owner": "pmndrs",
             "repo": "react-three-fiber",
-            "stars": 31711
+            "stars": 31716
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-05T14:56:16Z",
             "owner": "pmndrs",
             "repo": "drei",
-            "stars": 9797
+            "stars": 9799
           }
         },
         {
@@ -122,7 +122,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T21:00:46Z",
+            "last_commit": "2026-08-15T11:36:42Z",
             "owner": "pmndrs",
             "repo": "react-postprocessing",
             "stars": 1345
@@ -170,7 +170,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-08-14T13:02:58Z",
+            "last_commit": "2026-08-15T12:36:51Z",
             "owner": "Tresjs",
             "repo": "tres",
             "stars": 3659
@@ -221,7 +221,7 @@
             "last_commit": "2026-07-30T06:17:28Z",
             "owner": "threlte",
             "repo": "threlte",
-            "stars": 3322
+            "stars": 3321
           }
         },
         {
@@ -269,7 +269,7 @@
             "last_commit": "2026-08-13T14:55:27Z",
             "owner": "dimforge",
             "repo": "rapier",
-            "stars": 5637
+            "stars": 5639
           }
         },
         {
@@ -283,7 +283,7 @@
             "last_commit": "2026-06-16T19:27:27Z",
             "owner": "kripken",
             "repo": "ammo.js",
-            "stars": 4552
+            "stars": 4553
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2024-01-06T04:10:33Z",
             "owner": "pmndrs",
             "repo": "cannon-es",
-            "stars": 2050
+            "stars": 2051
           }
         }
       ],
@@ -387,7 +387,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:29:57.764Z",
+    "last_updated": "2026-08-15T13:51:22.779Z",
     "original_repository": "AxiomeCG/awesome-threejs",
     "original_repository_sha": "f99efd9cfd1f5de6904a2f13d00e4863f0e23cd7",
     "enhanced_repository": "enhansome/enhansome-threejs",
