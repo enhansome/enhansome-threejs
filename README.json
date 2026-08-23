@@ -106,7 +106,7 @@
                     "last_commit": "2026-08-19T12:38:51Z",
                     "owner": "pmndrs",
                     "repo": "react-three-fiber",
-                    "stars": 31766
+                    "stars": 31772
                   }
                 },
                 {
@@ -121,7 +121,7 @@
                     "last_commit": "2026-08-19T12:39:18Z",
                     "owner": "pmndrs",
                     "repo": "drei",
-                    "stars": 9815
+                    "stars": 9814
                   }
                 },
                 {
@@ -133,7 +133,7 @@
                     "archived": false,
                     "id": 262026124,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T20:07:14Z",
+                    "last_commit": "2026-08-23T10:04:30Z",
                     "owner": "pmndrs",
                     "repo": "react-postprocessing",
                     "stars": 1347
@@ -240,7 +240,7 @@
                     "last_commit": "2026-07-30T06:17:28Z",
                     "owner": "threlte",
                     "repo": "threlte",
-                    "stars": 3327
+                    "stars": 3328
                   }
                 },
                 {
@@ -297,7 +297,7 @@
                 "last_commit": "2026-08-16T20:23:45Z",
                 "owner": "dimforge",
                 "repo": "rapier",
-                "stars": 5673
+                "stars": 5675
               }
             },
             {
@@ -312,7 +312,7 @@
                 "last_commit": "2026-06-16T19:27:27Z",
                 "owner": "kripken",
                 "repo": "ammo.js",
-                "stars": 4554
+                "stars": 4555
               }
             },
             {
@@ -327,7 +327,7 @@
                 "last_commit": "2024-01-06T04:10:33Z",
                 "owner": "pmndrs",
                 "repo": "cannon-es",
-                "stars": 2052
+                "stars": 2053
               }
             }
           ],
@@ -448,7 +448,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23510
+            "stars": 23512
           }
         },
         {
@@ -463,7 +463,7 @@
             "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17176
+            "stars": 17186
           }
         },
         {
@@ -478,7 +478,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15231
+            "stars": 15237
           }
         },
         {
@@ -576,7 +576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:51:18.032Z",
+    "last_updated": "2026-08-23T13:53:27.742Z",
     "original_repository": "AxiomeCG/awesome-threejs",
     "original_repository_id": 509383637,
     "original_repository_sha": "f99efd9cfd1f5de6904a2f13d00e4863f0e23cd7",
