@@ -180,7 +180,7 @@
 
 ## 3D modeling
 
-* [img2threejs](https://github.com/hoainho/img2threejs) ⭐ 13,272 | 🐛 67 | 🌐 Python | 📅 2026-08-24: Rebuild the object in a reference image as a code-only, procedural, quality-gated Three.js model. Pure-Python stdlib tooling emits diffable TypeScript, no downloaded meshes. by [@hoainho](https://github.com/hoainho)
+* [img2threejs](https://github.com/hoainho/img2threejs) ⭐ 13,288 | 🐛 67 | 🌐 Python | 📅 2026-08-24: Rebuild the object in a reference image as a code-only, procedural, quality-gated Three.js model. Pure-Python stdlib tooling emits diffable TypeScript, no downloaded meshes. by [@hoainho](https://github.com/hoainho)
 * [Blender](https://www.blender.org/): Free and powerful to create your own 3D assets. A lot of export file extensions
   are available.
 * [Houdini](https://www.sidefx.com/products/houdini/): To create procedural 3D assets. The free licence "Houdini
@@ -244,7 +244,7 @@
 
 ### React
 
-* [react-three-fiber](https://github.com/pmndrs/react-three-fiber) ⭐ 31,784 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-24: A declarative way of handling your ThreeJS stuff for
+* [react-three-fiber](https://github.com/pmndrs/react-three-fiber) ⭐ 31,785 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-24: A declarative way of handling your ThreeJS stuff for
   React by [@pmndrs](https://github.com/pmndrs)
 * [drei](https://github.com/pmndrs/drei) ⭐ 9,816 | 🐛 108 | 🌐 JavaScript | 📅 2026-08-24: Useful helpers for react-three-fiber by [@pmndrs](https://github.com/pmndrs)
 * [react-postprocessing](https://github.com/pmndrs/react-postprocessing) ⭐ 1,349 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-23: A postprocessing wrapper for @react-three/fiber by [@pmndrs](https://github.com/pmndrs)

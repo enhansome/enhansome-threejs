@@ -147,7 +147,7 @@
                 "last_commit": "2026-08-24T12:17:35Z",
                 "owner": "img2threejs",
                 "repo": "img2threejs",
-                "stars": 13272
+                "stars": 13288
               }
             }
           ],
@@ -302,7 +302,7 @@
                     "last_commit": "2026-08-24T12:32:53Z",
                     "owner": "pmndrs",
                     "repo": "react-three-fiber",
-                    "stars": 31784
+                    "stars": 31785
                   }
                 },
                 {
@@ -882,7 +882,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:21:23.716Z",
+    "last_updated": "2026-08-24T15:06:47.543Z",
     "original_repository": "AxiomeCG/awesome-threejs",
     "original_repository_id": 509383637,
     "original_repository_sha": "f99efd9cfd1f5de6904a2f13d00e4863f0e23cd7",
