@@ -6,6 +6,158 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "Matcap repository",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 223796982,
+                "language": "JavaScript",
+                "last_commit": "2025-10-13T20:11:43Z",
+                "owner": "nidorx",
+                "repo": "matcaps",
+                "stars": 3337
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Matcaps"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Realistic water shader",
+                  "description": "There are also some links with explanation of the approach",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 14876536,
+                    "language": "JavaScript",
+                    "last_commit": "2017-10-18T20:25:15Z",
+                    "owner": "jbouny",
+                    "repo": "ocean",
+                    "stars": 797
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Main"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "PixelSpirit Elements Deck",
+                  "description": "This is a tarot deck for learning GLSL shaders. Each PixelSpirit card has a visual element and its GLSL shader code. The cards are ordered from simplest to most complex, building a library of code functions that combine like a book of spells to form an infinite visual language. by @patriciogv",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "PixelSpirit GitHub",
+                      "description": "Library associated with the PixelSpirit Elemens Deck by @patriciogv",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 101850178,
+                        "language": "GLSL",
+                        "last_commit": "2024-02-02T19:08:47Z",
+                        "owner": "patriciogonzalezvivo",
+                        "repo": "PixelSpiritDeck",
+                        "stars": 547
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Other"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GLSL Shaders"
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gltf-transform",
+              "description": "CLI to run on your GLTF file for a lot of different optimizations (welding, pruning, draco compression...). It also enables the conversion of textures into KTX2 for optimizing textures on the GPU by @donmccurdy",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12136516,
+                "language": "C++",
+                "last_commit": "2026-08-24T13:59:30Z",
+                "owner": "KhronosGroup",
+                "repo": "KTX-Software",
+                "stars": 1344
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Debug/Optimization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Three-Blender",
+              "description": "Blender based tool, to convert your Blender files directly to threeJS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 884367625,
+                "language": "Python",
+                "last_commit": "2025-04-29T09:30:16Z",
+                "owner": "ppmpreetham",
+                "repo": "three-blender",
+                "stars": 109
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scene Creation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "img2threejs",
+              "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated Three.js model. Pure-Python stdlib tooling emits diffable TypeScript, no downloaded meshes. by @hoainho",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1301140808,
+                "language": "Python",
+                "last_commit": "2026-08-24T12:17:35Z",
+                "owner": "img2threejs",
+                "repo": "img2threejs",
+                "stars": 13272
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "3D modeling"
+        },
+        {
+          "children": [
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -41,6 +193,28 @@
               "description": null,
               "node_type": "group",
               "title": "Online tools"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "glslViewer",
+                  "description": "Console-based GLSL Sandbox for 2D/3D shaders by @patriciogv. Battle-tested by its creator, it enables to build a creative pipeline agnostic to the target platform and to iterate very fast and with less frictions for making a draft of your shaders ideas. A must-have in your toolkit.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 27135535,
+                    "language": "C++",
+                    "last_commit": "2026-08-19T23:55:56Z",
+                    "owner": "patriciogonzalezvivo",
+                    "repo": "glslViewer",
+                    "stars": 5321
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Installed tools"
             }
           ],
           "description": null,
@@ -53,6 +227,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lygia",
+              "description": "a granular and multi-language shader library designed for performance and flexibility by @patriciogv. A cross platform library that will help you iterate on your shaders very easily. Going deep in the code of a specific functionality can also help you learn GLSL/HLSL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 355252375,
+                "language": "GLSL",
+                "last_commit": "2026-08-17T11:09:31Z",
+                "owner": "patriciogonzalezvivo",
+                "repo": "lygia",
+                "stars": 3411
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GLSL/HLSL Shaders"
+        },
         {
           "children": [
             {
@@ -103,10 +299,10 @@
                     "archived": false,
                     "id": 172521926,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-19T12:38:51Z",
+                    "last_commit": "2026-08-24T12:32:53Z",
                     "owner": "pmndrs",
                     "repo": "react-three-fiber",
-                    "stars": 31772
+                    "stars": 31784
                   }
                 },
                 {
@@ -118,10 +314,10 @@
                     "archived": false,
                     "id": 259117468,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-19T12:39:18Z",
+                    "last_commit": "2026-08-24T10:15:27Z",
                     "owner": "pmndrs",
                     "repo": "drei",
-                    "stars": 9814
+                    "stars": 9816
                   }
                 },
                 {
@@ -133,10 +329,10 @@
                     "archived": false,
                     "id": 262026124,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-23T10:04:30Z",
+                    "last_commit": "2026-08-23T17:23:32Z",
                     "owner": "pmndrs",
                     "repo": "react-postprocessing",
-                    "stars": 1347
+                    "stars": 1349
                   }
                 },
                 {
@@ -158,6 +354,28 @@
               "description": null,
               "node_type": "group",
               "title": "React"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "angular-three",
+                  "description": "Declarative ThreeJS inspired by r3f for the Angular ecosystem by @nartc",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 358472076,
+                    "language": "JavaScript",
+                    "last_commit": "2023-02-10T03:31:56Z",
+                    "owner": "nartc",
+                    "repo": "angular-three",
+                    "stars": 309
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Angular"
             },
             {
               "children": [
@@ -188,7 +406,7 @@
                     "last_commit": "2026-08-17T22:09:44Z",
                     "owner": "Tresjs",
                     "repo": "tres",
-                    "stars": 3666
+                    "stars": 3669
                   }
                 },
                 {
@@ -240,7 +458,7 @@
                     "last_commit": "2026-07-30T06:17:28Z",
                     "owner": "threlte",
                     "repo": "threlte",
-                    "stars": 3328
+                    "stars": 3330
                   }
                 },
                 {
@@ -297,7 +515,7 @@
                 "last_commit": "2026-08-16T20:23:45Z",
                 "owner": "dimforge",
                 "repo": "rapier",
-                "stars": 5675
+                "stars": 5677
               }
             },
             {
@@ -334,6 +552,50 @@
           "description": null,
           "node_type": "group",
           "title": "Physics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "three-mesh-bvh",
+              "description": "by @gkjohnson: Highly effective way to check for collisions and to accelerate raycasting by the usage of bounding volume hierarchy. (Really a must have in your toolkit)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118064695,
+                "language": "JavaScript",
+                "last_commit": "2026-08-10T23:17:53Z",
+                "owner": "gkjohnson",
+                "repo": "three-mesh-bvh",
+                "stars": 3458
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Spatial querying & Raycasting"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "three-bvh-csg",
+              "description": "by @gkjohnson: A flexible, memory compact, fast and dynamic CSG implementation on top of three-mesh-bvh. (Amazing tool to perform some Boolean operations between meshes like intersection, difference, ...)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 493750303,
+                "language": "JavaScript",
+                "last_commit": "2026-08-20T07:58:08Z",
+                "owner": "gkjohnson",
+                "repo": "three-bvh-csg",
+                "stars": 942
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Constructive Solid Geometry"
         },
         {
           "children": [
@@ -386,6 +648,28 @@
           "description": null,
           "node_type": "group",
           "title": "Pathfinding"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ossos",
+              "description": "A complete character skinning & animation library for the web",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 434946252,
+                "language": "TypeScript",
+                "last_commit": "2025-11-19T05:02:48Z",
+                "owner": "sketchpunklabs",
+                "repo": "ossos",
+                "stars": 501
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Characters"
         }
       ],
       "title": "Libraries"
@@ -429,6 +713,28 @@
           "description": null,
           "node_type": "group",
           "title": "Water"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Axis-Aligned Bounding Boxes",
+              "description": "AABB based collision detection",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 44307768,
+                "language": "JavaScript",
+                "last_commit": "2019-01-17T22:25:23Z",
+                "owner": "mozdevs",
+                "repo": "gamedev-js-3d-aabb",
+                "stars": 72
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Collision detection"
         }
       ],
       "title": "Demonstrations"
@@ -448,7 +754,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23512
+            "stars": 23517
           }
         },
         {
@@ -463,7 +769,7 @@
             "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17186
+            "stars": 17191
           }
         },
         {
@@ -478,7 +784,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15237
+            "stars": 15240
           }
         },
         {
@@ -508,7 +814,7 @@
             "last_commit": "2026-01-09T12:26:55Z",
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2436
+            "stars": 2435
           }
         },
         {
@@ -523,7 +829,7 @@
             "last_commit": "2026-01-21T09:09:35Z",
             "owner": "mikbry",
             "repo": "awesome-webgpu",
-            "stars": 1961
+            "stars": 1963
           }
         },
         {
@@ -576,7 +882,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:53:27.742Z",
+    "last_updated": "2026-08-24T14:21:23.716Z",
     "original_repository": "AxiomeCG/awesome-threejs",
     "original_repository_id": 509383637,
     "original_repository_sha": "f99efd9cfd1f5de6904a2f13d00e4863f0e23cd7",
