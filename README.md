@@ -169,7 +169,7 @@
 
 ## Debug/Optimization
 
-* [gltf-transform](https://gltf-transform.dev/): CLI to run on your GLTF file for a lot of different optimizations (welding, pruning, draco compression...). It also enables the conversion of textures into [KTX2](https://github.com/KhronosGroup/KTX-Software) ⭐ 1,344 | 🐛 44 | 🌐 C++ | 📅 2026-08-24 for optimizing textures on the GPU by [@donmccurdy](https://github.com/donmccurdy)
+* [gltf-transform](https://gltf-transform.dev/): CLI to run on your GLTF file for a lot of different optimizations (welding, pruning, draco compression...). It also enables the conversion of textures into [KTX2](https://github.com/KhronosGroup/KTX-Software) ⭐ 1,343 | 🐛 44 | 🌐 C++ | 📅 2026-08-24 for optimizing textures on the GPU by [@donmccurdy](https://github.com/donmccurdy)
 * [GLTF Report](https://gltf.report): Web app to diagnose, optimize your gltf files. Nice inspector that even support BASIS/KTX2 textures. by [@donmccurdy](https://github.com/donmccurdy)
 
 ## Scene Creation
@@ -180,7 +180,7 @@
 
 ## 3D modeling
 
-* [img2threejs](https://github.com/hoainho/img2threejs) ⭐ 13,487 | 🐛 67 | 🌐 Python | 📅 2026-08-24: Rebuild the object in a reference image as a code-only, procedural, quality-gated Three.js model. Pure-Python stdlib tooling emits diffable TypeScript, no downloaded meshes. by [@hoainho](https://github.com/hoainho)
+* [img2threejs](https://github.com/hoainho/img2threejs) ⭐ 13,647 | 🐛 67 | 🌐 Python | 📅 2026-08-24: Rebuild the object in a reference image as a code-only, procedural, quality-gated Three.js model. Pure-Python stdlib tooling emits diffable TypeScript, no downloaded meshes. by [@hoainho](https://github.com/hoainho)
 * [Blender](https://www.blender.org/): Free and powerful to create your own 3D assets. A lot of export file extensions
   are available.
 * [Houdini](https://www.sidefx.com/products/houdini/): To create procedural 3D assets. The free licence "Houdini
@@ -246,7 +246,7 @@
 
 * [react-three-fiber](https://github.com/pmndrs/react-three-fiber) ⭐ 31,788 | 🐛 50 | 🌐 TypeScript | 📅 2026-08-25: A declarative way of handling your ThreeJS stuff for
   React by [@pmndrs](https://github.com/pmndrs)
-* [drei](https://github.com/pmndrs/drei) ⭐ 9,818 | 🐛 117 | 🌐 JavaScript | 📅 2026-08-24: Useful helpers for react-three-fiber by [@pmndrs](https://github.com/pmndrs)
+* [drei](https://github.com/pmndrs/drei) ⭐ 9,818 | 🐛 107 | 🌐 JavaScript | 📅 2026-08-25: Useful helpers for react-three-fiber by [@pmndrs](https://github.com/pmndrs)
 * [react-postprocessing](https://github.com/pmndrs/react-postprocessing) ⭐ 1,349 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-23: A postprocessing wrapper for @react-three/fiber by [@pmndrs](https://github.com/pmndrs)
 * [morph-hero](https://github.com/othmarodev/morph-hero) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-07: A cinematic portfolio hero component where particles morph between a country flag and a name, with constellation lines and mouse parallax. Single particle system architecture. Live demo at [morph-hero.othmaro.dev](https://morph-hero.othmaro.dev) by [@othmarodev](https://github.com/othmarodev)
 * [react-spring](https://www.react-spring.dev/): An awesome library about physically accurate animations. Works smoothly also for react-three-fiber using the package [`@react-spring/three`](https://www.react-spring.dev/docs/guides/react-three-fiber)
@@ -260,7 +260,7 @@
 ### Vue
 
 * [trois](https://github.com/troisjs/trois) ⚠️ Archived: The equivalent of r3f for VueJS by [@troisjs](https://github.com/troisjs)
-* [TresJs](https://github.com/tresjs/tres) ⭐ 3,669 | 🐛 100 | 🌐 Vue | 📅 2026-08-17: Declarative ThreeJS using Vue Components by [@tresjs\_dev](https://github.com/Tresjs)
+* [TresJs](https://github.com/tresjs/tres) ⭐ 3,670 | 🐛 100 | 🌐 Vue | 📅 2026-08-17: Declarative ThreeJS using Vue Components by [@tresjs\_dev](https://github.com/Tresjs)
 * [Cientos](https://github.com/Tresjs/cientos) ⚠️ Archived: Collection of useful helpers and fully functional, ready-made abstractions for TresJs [@tresjs\_dev](https://github.com/Tresjs)
 * [tres-post-processing](https://github.com/Tresjs/post-processing) ⚠️ Archived: Post-processing library for TresJs [@tresjs\_dev](https://github.com/Tresjs)
 
@@ -273,7 +273,7 @@
 
 ## Physics
 
-* [Rapier](https://github.com/dimforge/rapier) ⭐ 5,679 | 🐛 50 | 🌐 Rust | 📅 2026-08-16 by [@dimforge](https://github.com/dimforge/)
+* [Rapier](https://github.com/dimforge/rapier) ⭐ 5,681 | 🐛 50 | 🌐 Rust | 📅 2026-08-16 by [@dimforge](https://github.com/dimforge/)
 * [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,556 | 🐛 175 | 🌐 C++ | 📅 2026-06-16
 * [cannon-es](https://github.com/pmndrs/cannon-es) ⭐ 2,053 | 🐛 58 | 🌐 TypeScript | 📅 2024-01-06 by [@pmndrs](https://github.com/pmndrs/)
 * [Oimo.js](https://lo-th.github.io/Oimo.js/#basic)
@@ -301,7 +301,7 @@
 
 ## Water
 
-* [fft-ocean](https://github.com/jbouny/fft-ocean) ⭐ 350 | 🐛 5 | 🌐 JavaScript | 📅 2015-11-12 Fast Fourier Transform ocean rendering for Three.js
+* [fft-ocean](https://github.com/jbouny/fft-ocean) ⭐ 351 | 🐛 5 | 🌐 JavaScript | 📅 2015-11-12 Fast Fourier Transform ocean rendering for Three.js
 * [skunami.js](https://github.com/skeelogy/skunami.js/) ⭐ 68 | 🐛 1 | 🌐 JavaScript | 📅 2013-10-26 Marvellous project with realistic water interaction
 * [Shallow water](https://vuoriov4.github.io/webgl-water-demo/) Demo project that shows water ripple effect
 
@@ -332,10 +332,10 @@ Or you can reach me on Twitter:
 
 # Related Lists
 
-* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,517 | 🐛 92 | 📅 2024-05-17 - A curated list of awesome computer
+* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,516 | 🐛 92 | 📅 2024-05-17 - A curated list of awesome computer
   vision resources.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,194 | 🐛 14 | 🌐 Markdown | 📅 2026-08-17 - A awesome list about game development.
-* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,241 | 🐛 6 | 🌐 HTML | 📅 2026-07-21 - A carefully curated list of awesome
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,194 | 🐛 14 | 🌐 Markdown | 📅 2026-08-25 - A awesome list about game development.
+* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,240 | 🐛 6 | 🌐 HTML | 📅 2026-07-21 - A carefully curated list of awesome
   creative coding resources primarily for beginners/intermediates.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,713 | 🐛 5 | 📅 2026-05-11 - A curated list of awesome Vulkan projects and ecosystem.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,437 | 🐛 0 | 📅 2026-01-09 - A curated list of awesome OpenGL libraries, debuggers and
