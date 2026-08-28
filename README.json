@@ -17,8 +17,9 @@
                 "last_commit": "2025-10-13T20:11:43Z",
                 "owner": "nidorx",
                 "repo": "matcaps",
-                "stars": 3342
-              }
+                "stars": 3343
+              },
+              "first_seen": "2026-08-28T23:08:21.873Z"
             }
           ],
           "description": null,
@@ -42,7 +43,8 @@
                     "owner": "jbouny",
                     "repo": "ocean",
                     "stars": 798
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:08:21.873Z"
                 }
               ],
               "description": null,
@@ -69,7 +71,8 @@
                         "owner": "patriciogonzalezvivo",
                         "repo": "PixelSpiritDeck",
                         "stars": 547
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:08:21.873Z"
                     }
                   ]
                 }
@@ -100,11 +103,12 @@
                 "archived": false,
                 "id": 12136516,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:59:30Z",
+                "last_commit": "2026-08-28T08:51:40Z",
                 "owner": "KhronosGroup",
                 "repo": "KTX-Software",
-                "stars": 1343
-              }
+                "stars": 1345
+              },
+              "first_seen": "2026-08-28T23:08:21.873Z"
             }
           ],
           "description": null,
@@ -126,7 +130,8 @@
                 "owner": "ppmpreetham",
                 "repo": "three-blender",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T23:08:21.873Z"
             }
           ],
           "description": null,
@@ -147,8 +152,9 @@
                 "last_commit": "2026-08-26T11:20:20Z",
                 "owner": "img2threejs",
                 "repo": "img2threejs",
-                "stars": 14194
-              }
+                "stars": 14340
+              },
+              "first_seen": "2026-08-28T23:08:21.873Z"
             }
           ],
           "description": null,
@@ -172,7 +178,8 @@
                     "owner": "shader-park",
                     "repo": "shader-park-core",
                     "stars": 823
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:08:21.873Z"
                 },
                 {
                   "node_type": "item",
@@ -187,7 +194,8 @@
                     "owner": "NodeToy",
                     "repo": "react-nodetoy",
                     "stars": 65
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:08:21.873Z"
                 }
               ],
               "description": null,
@@ -209,7 +217,8 @@
                     "owner": "patriciogonzalezvivo",
                     "repo": "glslViewer",
                     "stars": 5322
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:08:21.873Z"
                 }
               ],
               "description": null,
@@ -241,8 +250,9 @@
                 "last_commit": "2026-08-17T11:09:31Z",
                 "owner": "patriciogonzalezvivo",
                 "repo": "lygia",
-                "stars": 3416
-              }
+                "stars": 3418
+              },
+              "first_seen": "2026-08-28T23:08:21.873Z"
             }
           ],
           "description": null,
@@ -260,11 +270,12 @@
                 "archived": false,
                 "id": 97438120,
                 "language": "TypeScript",
-                "last_commit": "2026-02-02T04:58:37Z",
+                "last_commit": "2026-08-28T00:07:34Z",
                 "owner": "yomotsu",
                 "repo": "camera-controls",
                 "stars": 2422
-              }
+              },
+              "first_seen": "2026-08-28T23:08:21.873Z"
             },
             {
               "node_type": "item",
@@ -278,8 +289,9 @@
                 "last_commit": "2026-07-19T07:28:17Z",
                 "owner": "bbdaii",
                 "repo": "three-pivot-controls",
-                "stars": 16
-              }
+                "stars": 17
+              },
+              "first_seen": "2026-08-28T23:08:21.873Z"
             }
           ],
           "description": null,
@@ -299,11 +311,12 @@
                     "archived": false,
                     "id": 172521926,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T18:58:54Z",
+                    "last_commit": "2026-08-28T15:28:41Z",
                     "owner": "pmndrs",
                     "repo": "react-three-fiber",
-                    "stars": 31810
-                  }
+                    "stars": 31820
+                  },
+                  "first_seen": "2026-08-28T23:08:21.873Z"
                 },
                 {
                   "node_type": "item",
@@ -317,8 +330,9 @@
                     "last_commit": "2026-08-25T09:11:45Z",
                     "owner": "pmndrs",
                     "repo": "drei",
-                    "stars": 9822
-                  }
+                    "stars": 9824
+                  },
+                  "first_seen": "2026-08-28T23:08:21.873Z"
                 },
                 {
                   "node_type": "item",
@@ -332,8 +346,9 @@
                     "last_commit": "2026-08-27T16:43:06Z",
                     "owner": "pmndrs",
                     "repo": "react-postprocessing",
-                    "stars": 1382
-                  }
+                    "stars": 1383
+                  },
+                  "first_seen": "2026-08-28T23:08:21.873Z"
                 },
                 {
                   "node_type": "item",
@@ -348,7 +363,8 @@
                     "owner": "othmarodev",
                     "repo": "morph-hero",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:08:21.873Z"
                 }
               ],
               "description": null,
@@ -370,7 +386,8 @@
                     "owner": "nartc",
                     "repo": "angular-three",
                     "stars": 309
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:08:21.873Z"
                 }
               ],
               "description": null,
@@ -392,7 +409,8 @@
                     "owner": "troisjs",
                     "repo": "trois",
                     "stars": 4500
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:08:21.873Z"
                 },
                 {
                   "node_type": "item",
@@ -406,8 +424,9 @@
                     "last_commit": "2026-08-17T22:09:44Z",
                     "owner": "Tresjs",
                     "repo": "tres",
-                    "stars": 3674
-                  }
+                    "stars": 3677
+                  },
+                  "first_seen": "2026-08-28T23:08:21.873Z"
                 },
                 {
                   "node_type": "item",
@@ -422,7 +441,8 @@
                     "owner": "Tresjs",
                     "repo": "cientos",
                     "stars": 369
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:08:21.873Z"
                 },
                 {
                   "node_type": "item",
@@ -437,7 +457,8 @@
                     "owner": "Tresjs",
                     "repo": "post-processing",
                     "stars": 71
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:08:21.873Z"
                 }
               ],
               "description": null,
@@ -455,11 +476,12 @@
                     "archived": false,
                     "id": 448331182,
                     "language": "Svelte",
-                    "last_commit": "2026-08-26T20:31:05Z",
+                    "last_commit": "2026-08-28T02:07:50Z",
                     "owner": "threlte",
                     "repo": "threlte",
-                    "stars": 3333
-                  }
+                    "stars": 3334
+                  },
+                  "first_seen": "2026-08-28T23:08:21.873Z"
                 },
                 {
                   "node_type": "item",
@@ -474,7 +496,8 @@
                     "owner": "Rich-Harris",
                     "repo": "svelte-cubed",
                     "stars": 1186
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:08:21.873Z"
                 },
                 {
                   "node_type": "item",
@@ -489,7 +512,8 @@
                     "owner": "1bye",
                     "repo": "threlte-postprocessing",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:08:21.873Z"
                 }
               ],
               "description": null,
@@ -512,11 +536,12 @@
                 "archived": false,
                 "id": 290312103,
                 "language": "Rust",
-                "last_commit": "2026-08-16T20:23:45Z",
+                "last_commit": "2026-08-28T15:29:38Z",
                 "owner": "dimforge",
                 "repo": "rapier",
-                "stars": 5686
-              }
+                "stars": 5693
+              },
+              "first_seen": "2026-08-28T23:08:21.873Z"
             },
             {
               "node_type": "item",
@@ -531,7 +556,8 @@
                 "owner": "kripken",
                 "repo": "ammo.js",
                 "stars": 4558
-              }
+              },
+              "first_seen": "2026-08-28T23:08:21.873Z"
             },
             {
               "node_type": "item",
@@ -546,7 +572,8 @@
                 "owner": "pmndrs",
                 "repo": "cannon-es",
                 "stars": 2054
-              }
+              },
+              "first_seen": "2026-08-28T23:08:21.873Z"
             }
           ],
           "description": null,
@@ -567,8 +594,9 @@
                 "last_commit": "2026-08-10T23:17:53Z",
                 "owner": "gkjohnson",
                 "repo": "three-mesh-bvh",
-                "stars": 3462
-              }
+                "stars": 3464
+              },
+              "first_seen": "2026-08-28T23:08:21.873Z"
             }
           ],
           "description": null,
@@ -590,7 +618,8 @@
                 "owner": "gkjohnson",
                 "repo": "three-bvh-csg",
                 "stars": 943
-              }
+              },
+              "first_seen": "2026-08-28T23:08:21.873Z"
             }
           ],
           "description": null,
@@ -611,8 +640,9 @@
                 "last_commit": "2024-06-20T20:59:22Z",
                 "owner": "qiao",
                 "repo": "PathFinding.js",
-                "stars": 8713
-              }
+                "stars": 8712
+              },
+              "first_seen": "2026-08-28T23:08:21.873Z"
             },
             {
               "node_type": "item",
@@ -627,7 +657,8 @@
                 "owner": "donmccurdy",
                 "repo": "three-pathfinding",
                 "stars": 1369
-              }
+              },
+              "first_seen": "2026-08-28T23:08:21.873Z"
             },
             {
               "node_type": "item",
@@ -642,7 +673,8 @@
                 "owner": "oguzeroglu",
                 "repo": "Kompute",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T23:08:21.873Z"
             }
           ],
           "description": null,
@@ -664,7 +696,8 @@
                 "owner": "sketchpunklabs",
                 "repo": "ossos",
                 "stars": 501
-              }
+              },
+              "first_seen": "2026-08-28T23:08:21.873Z"
             }
           ],
           "description": null,
@@ -692,7 +725,8 @@
                 "owner": "jbouny",
                 "repo": "fft-ocean",
                 "stars": 351
-              }
+              },
+              "first_seen": "2026-08-28T23:08:21.873Z"
             },
             {
               "node_type": "item",
@@ -707,7 +741,8 @@
                 "owner": "skeelogy",
                 "repo": "skunami.js",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T23:08:21.873Z"
             }
           ],
           "description": null,
@@ -729,7 +764,8 @@
                 "owner": "mozdevs",
                 "repo": "gamedev-js-3d-aabb",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T23:08:21.873Z"
             }
           ],
           "description": null,
@@ -754,8 +790,9 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23521
-          }
+            "stars": 23520
+          },
+          "first_seen": "2026-08-28T23:08:21.873Z"
         },
         {
           "node_type": "item",
@@ -766,11 +803,12 @@
             "archived": false,
             "id": 21958186,
             "language": "Markdown",
-            "last_commit": "2026-08-25T12:55:42Z",
+            "last_commit": "2026-08-28T17:26:39Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17208
-          }
+            "stars": 17212
+          },
+          "first_seen": "2026-08-28T23:08:21.873Z"
         },
         {
           "node_type": "item",
@@ -784,8 +822,9 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15245
-          }
+            "stars": 15253
+          },
+          "first_seen": "2026-08-28T23:08:21.873Z"
         },
         {
           "node_type": "item",
@@ -799,8 +838,9 @@
             "last_commit": "2026-05-11T04:37:02Z",
             "owner": "vinjn",
             "repo": "awesome-vulkan",
-            "stars": 3713
-          }
+            "stars": 3714
+          },
+          "first_seen": "2026-08-28T23:08:21.873Z"
         },
         {
           "node_type": "item",
@@ -815,7 +855,8 @@
             "owner": "eug",
             "repo": "awesome-opengl",
             "stars": 2437
-          }
+          },
+          "first_seen": "2026-08-28T23:08:21.873Z"
         },
         {
           "node_type": "item",
@@ -829,8 +870,9 @@
             "last_commit": "2026-01-21T09:09:35Z",
             "owner": "mikbry",
             "repo": "awesome-webgpu",
-            "stars": 1967
-          }
+            "stars": 1968
+          },
+          "first_seen": "2026-08-28T23:08:21.873Z"
         },
         {
           "node_type": "item",
@@ -845,7 +887,8 @@
             "owner": "mattdesl",
             "repo": "graphics-resources",
             "stars": 1853
-          }
+          },
+          "first_seen": "2026-08-28T23:08:21.873Z"
         },
         {
           "node_type": "item",
@@ -860,7 +903,8 @@
             "owner": "sjfricke",
             "repo": "awesome-webgl",
             "stars": 1528
-          }
+          },
+          "first_seen": "2026-08-28T23:08:21.873Z"
         },
         {
           "node_type": "item",
@@ -875,14 +919,15 @@
             "owner": "vanrez-nez",
             "repo": "awesome-glsl",
             "stars": 1365
-          }
+          },
+          "first_seen": "2026-08-28T23:08:21.873Z"
         }
       ],
       "title": "Related Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:00:46.049Z",
+    "last_updated": "2026-08-28T23:08:21.873Z",
     "original_repository_info": {
       "archived": false,
       "id": 509383637,
