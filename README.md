@@ -169,7 +169,7 @@
 
 ## Debug/Optimization
 
-* [gltf-transform](https://gltf-transform.dev/): CLI to run on your GLTF file for a lot of different optimizations (welding, pruning, draco compression...). It also enables the conversion of textures into [KTX2](https://github.com/KhronosGroup/KTX-Software) ⭐ 1,345 | 🐛 44 | 🌐 C++ | 📅 2026-08-28 for optimizing textures on the GPU by [@donmccurdy](https://github.com/donmccurdy)
+* [gltf-transform](https://gltf-transform.dev/): CLI to run on your GLTF file for a lot of different optimizations (welding, pruning, draco compression...). It also enables the conversion of textures into [KTX2](https://github.com/KhronosGroup/KTX-Software) ⭐ 1,346 | 🐛 44 | 🌐 C++ | 📅 2026-08-28 for optimizing textures on the GPU by [@donmccurdy](https://github.com/donmccurdy)
 * [GLTF Report](https://gltf.report): Web app to diagnose, optimize your gltf files. Nice inspector that even support BASIS/KTX2 textures. by [@donmccurdy](https://github.com/donmccurdy)
 
 ## Scene Creation
@@ -180,7 +180,7 @@
 
 ## 3D modeling
 
-* [img2threejs](https://github.com/hoainho/img2threejs) ⭐ 14,367 | 🐛 72 | 🌐 Python | 📅 2026-08-26: Rebuild the object in a reference image as a code-only, procedural, quality-gated Three.js model. Pure-Python stdlib tooling emits diffable TypeScript, no downloaded meshes. by [@hoainho](https://github.com/hoainho)
+* [img2threejs](https://github.com/hoainho/img2threejs) ⭐ 14,442 | 🐛 73 | 🌐 Python | 📅 2026-08-29: Rebuild the object in a reference image as a code-only, procedural, quality-gated Three.js model. Pure-Python stdlib tooling emits diffable TypeScript, no downloaded meshes. by [@hoainho](https://github.com/hoainho)
 * [Blender](https://www.blender.org/): Free and powerful to create your own 3D assets. A lot of export file extensions
   are available.
 * [Houdini](https://www.sidefx.com/products/houdini/): To create procedural 3D assets. The free licence "Houdini
@@ -201,7 +201,7 @@
 
 ### Online tools
 
-* [Shader Park](https://shaderpark.com/): A JavaScript library for creating interactive procedural 2D and 3D shaders. Helpful for raymarching shaders (the raymarcher is already built-in, SDFs and boolean operation between them already available). Works both in p5js style and GLSL. ([to contribute](https://github.com/shader-park/shader-park-core) ⭐ 823 | 🐛 42 | 🌐 JavaScript | 📅 2024-05-28) by [@shader-park](https://github.com/shader-park)
+* [Shader Park](https://shaderpark.com/): A JavaScript library for creating interactive procedural 2D and 3D shaders. Helpful for raymarching shaders (the raymarcher is already built-in, SDFs and boolean operation between them already available). Works both in p5js style and GLSL. ([to contribute](https://github.com/shader-park/shader-park-core) ⭐ 824 | 🐛 42 | 🌐 JavaScript | 📅 2024-05-28) by [@shader-park](https://github.com/shader-park)
 * [NodeToy](https://app.nodetoy.co/): The shader tool for the web. NodeToy provides creators a powerful editor to create incredible new shaders and visual effects. If you are a react-three-fiber user, consider checking [react-nodetoy](https://github.com/NodeToy/react-nodetoy) ⭐ 65 | 🐛 6 | 🌐 TypeScript | 📅 2023-11-08. All of this provided by [@Nodetoy](https://github.com/NodeToy).
 * [GraphToy](https://graphtoy.com/): Powerful tool to wrap your head around and test shaping signals in GLSL
   by [@iquilezles](https://twitter.com/iquilezles)
@@ -244,9 +244,9 @@
 
 ### React
 
-* [react-three-fiber](https://github.com/pmndrs/react-three-fiber) ⭐ 31,821 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-28: A declarative way of handling your ThreeJS stuff for
+* [react-three-fiber](https://github.com/pmndrs/react-three-fiber) ⭐ 31,825 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-28: A declarative way of handling your ThreeJS stuff for
   React by [@pmndrs](https://github.com/pmndrs)
-* [drei](https://github.com/pmndrs/drei) ⭐ 9,825 | 🐛 108 | 🌐 JavaScript | 📅 2026-08-25: Useful helpers for react-three-fiber by [@pmndrs](https://github.com/pmndrs)
+* [drei](https://github.com/pmndrs/drei) ⭐ 9,825 | 🐛 109 | 🌐 JavaScript | 📅 2026-08-29: Useful helpers for react-three-fiber by [@pmndrs](https://github.com/pmndrs)
 * [react-postprocessing](https://github.com/pmndrs/react-postprocessing) ⭐ 1,384 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-27: A postprocessing wrapper for @react-three/fiber by [@pmndrs](https://github.com/pmndrs)
 * [morph-hero](https://github.com/othmarodev/morph-hero) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-07: A cinematic portfolio hero component where particles morph between a country flag and a name, with constellation lines and mouse parallax. Single particle system architecture. Live demo at [morph-hero.othmaro.dev](https://morph-hero.othmaro.dev) by [@othmarodev](https://github.com/othmarodev)
 * [react-spring](https://www.react-spring.dev/): An awesome library about physically accurate animations. Works smoothly also for react-three-fiber using the package [`@react-spring/three`](https://www.react-spring.dev/docs/guides/react-three-fiber)
@@ -260,13 +260,13 @@
 ### Vue
 
 * [trois](https://github.com/troisjs/trois) ⚠️ Archived: The equivalent of r3f for VueJS by [@troisjs](https://github.com/troisjs)
-* [TresJs](https://github.com/tresjs/tres) ⭐ 3,677 | 🐛 101 | 🌐 Vue | 📅 2026-08-17: Declarative ThreeJS using Vue Components by [@tresjs\_dev](https://github.com/Tresjs)
+* [TresJs](https://github.com/tresjs/tres) ⭐ 3,679 | 🐛 101 | 🌐 Vue | 📅 2026-08-17: Declarative ThreeJS using Vue Components by [@tresjs\_dev](https://github.com/Tresjs)
 * [Cientos](https://github.com/Tresjs/cientos) ⚠️ Archived: Collection of useful helpers and fully functional, ready-made abstractions for TresJs [@tresjs\_dev](https://github.com/Tresjs)
 * [tres-post-processing](https://github.com/Tresjs/post-processing) ⚠️ Archived: Post-processing library for TresJs [@tresjs\_dev](https://github.com/Tresjs)
 
 ### Svelte
 
-* [Threlte](https://github.com/threlte/threlte) ⭐ 3,334 | 🐛 67 | 🌐 Svelte | 📅 2026-08-28: A three.js component library for Svelte
+* [Threlte](https://github.com/threlte/threlte) ⭐ 3,334 | 🐛 68 | 🌐 Svelte | 📅 2026-08-29: A three.js component library for Svelte
 * [svelte-cubed](https://github.com/Rich-Harris/svelte-cubed) ⭐ 1,186 | 🐛 47 | 🌐 Svelte | 📅 2023-01-07: Declarative ThreeJS for Svelte
   by [@Rich-Harris](https://github.com/Rich-Harris)
 * [threlte-postprocessing](https://github.com/1bye/threlte-postprocessing) ⭐ 30 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-20: A postprocessing wrapper for Threlte by [@1bye](https://github.com/1bye)
@@ -289,7 +289,7 @@
 ## Pathfinding
 
 * [Pathfinding.js](https://github.com/qiao/PathFinding.js) ⭐ 8,712 | 🐛 106 | 🌐 JavaScript | 📅 2024-06-20 Useful library with tons of settings
-* [Three-pathfinding](https://github.com/donmccurdy/three-pathfinding) ⭐ 1,369 | 🐛 7 | 🌐 JavaScript | 📅 2026-07-08 Three.js plugin for navigation
+* [Three-pathfinding](https://github.com/donmccurdy/three-pathfinding) ⭐ 1,370 | 🐛 7 | 🌐 JavaScript | 📅 2026-07-08 Three.js plugin for navigation
 * [Kompute](https://github.com/oguzeroglu/Kompute) ⭐ 30 | 🐛 6 | 🌐 JavaScript | 📅 2023-01-06 Easy to use steering library
 
 ## Characters
@@ -334,7 +334,7 @@ Or you can reach me on Twitter:
 
 * [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,520 | 🐛 92 | 📅 2024-05-17 - A curated list of awesome computer
   vision resources.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,212 | 🐛 14 | 🌐 Markdown | 📅 2026-08-29 - A awesome list about game development.
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,213 | 🐛 14 | 🌐 Markdown | 📅 2026-08-29 - A awesome list about game development.
 * [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,255 | 🐛 8 | 🌐 HTML | 📅 2026-07-21 - A carefully curated list of awesome
   creative coding resources primarily for beginners/intermediates.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,714 | 🐛 5 | 📅 2026-05-11 - A curated list of awesome Vulkan projects and ecosystem.
