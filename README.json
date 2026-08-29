@@ -12,12 +12,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Huge library of matcap PNG textures organized by color",
+                "homepage": null,
                 "id": 223796982,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-10-13T20:11:43Z",
+                "open_issues": 3,
                 "owner": "nidorx",
                 "repo": "matcaps",
-                "stars": 3343
+                "stars": 3343,
+                "topics": [
+                  "blender-3d",
+                  "envmap",
+                  "lighting",
+                  "litsphere",
+                  "matcap",
+                  "non-photorealistic",
+                  "opengl",
+                  "shading",
+                  "texture",
+                  "threejs",
+                  "unity-3d",
+                  "webgl",
+                  "zbrush"
+                ]
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
             }
@@ -37,12 +56,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Realistic water shader for Three.js",
+                    "homepage": "http://jeremybouny.fr/ocean/demo/",
                     "id": 14876536,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-10-18T20:25:15Z",
+                    "open_issues": 9,
                     "owner": "jbouny",
                     "repo": "ocean",
-                    "stars": 798
+                    "stars": 798,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:08:21.873Z"
                 }
@@ -65,12 +89,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": "http://pixelspiritdeck.com/",
                         "id": 101850178,
                         "language": "GLSL",
+                        "license": "NOASSERTION",
                         "last_commit": "2024-02-02T19:08:47Z",
+                        "open_issues": 3,
                         "owner": "patriciogonzalezvivo",
                         "repo": "PixelSpiritDeck",
-                        "stars": 547
+                        "stars": 547,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:08:21.873Z"
                     }
@@ -101,12 +130,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "KTX (Khronos Texture) Library and Tools",
+                "homepage": null,
                 "id": 12136516,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T08:51:40Z",
+                "open_issues": 44,
                 "owner": "KhronosGroup",
                 "repo": "KTX-Software",
-                "stars": 1345
+                "stars": 1345,
+                "topics": [
+                  "ktx",
+                  "ktx-library",
+                  "opengl",
+                  "textures",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
             }
@@ -124,12 +164,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🥤Convert your Blender Scenes into interactive websites!",
+                "homepage": null,
                 "id": 884367625,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T10:53:24Z",
+                "open_issues": 0,
                 "owner": "ppmpreetham",
                 "repo": "three-blender",
-                "stars": 109
+                "stars": 109,
+                "topics": [
+                  "blender-addon",
+                  "blender3d",
+                  "threejs"
+                ]
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
             }
@@ -147,12 +196,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+                "homepage": "https://img2threejs.io",
                 "id": 1301140808,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T11:20:20Z",
+                "open_issues": 72,
                 "owner": "img2threejs",
                 "repo": "img2threejs",
-                "stars": 14340
+                "stars": 14367,
+                "topics": [
+                  "3d",
+                  "ai-agents",
+                  "claude-code",
+                  "computer-graphics",
+                  "generative",
+                  "image-to-3d",
+                  "procedural-generation",
+                  "threejs",
+                  "typescript",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
             }
@@ -172,12 +237,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A JavaScript library for creating real-time 2D and 3D shaders. JS -> Shader. https://shaderpark.com/  https://twitter.com/shaderpark",
+                    "homepage": "https://shaderpark.com/",
                     "id": 192394585,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-05-28T12:37:57Z",
+                    "open_issues": 42,
                     "owner": "shader-park",
                     "repo": "shader-park-core",
-                    "stars": 823
+                    "stars": 823,
+                    "topics": [
+                      "computer-graphics",
+                      "creative-coding",
+                      "glsl",
+                      "gpu",
+                      "graphics-programming",
+                      "live-coding",
+                      "p5js",
+                      "processing",
+                      "raymarching",
+                      "raymarching-distance-fields",
+                      "real-time",
+                      "rendering",
+                      "sdf",
+                      "shader",
+                      "shader-park",
+                      "shaders",
+                      "shadertoy",
+                      "signed-distance-field",
+                      "web",
+                      "webgl"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:08:21.873Z"
                 },
@@ -188,12 +279,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "https://react-nodetoy.vercel.app/",
+                    "homepage": null,
                     "id": 490054104,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-11-08T20:05:11Z",
+                    "open_issues": 6,
                     "owner": "NodeToy",
                     "repo": "react-nodetoy",
-                    "stars": 65
+                    "stars": 65,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:08:21.873Z"
                 }
@@ -211,12 +307,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Console-based GLSL Sandbox for 2D/3D shaders",
+                    "homepage": "https://patriciogonzalezvivo.github.io/glslViewer/",
                     "id": 27135535,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-19T23:55:56Z",
+                    "open_issues": 69,
                     "owner": "patriciogonzalezvivo",
                     "repo": "glslViewer",
-                    "stars": 5322
+                    "stars": 5321,
+                    "topics": [
+                      "c",
+                      "c-plus-plus",
+                      "console",
+                      "fragment-shader",
+                      "geometry",
+                      "glfw",
+                      "glsl",
+                      "glslviewer",
+                      "graphics",
+                      "linux",
+                      "opengl-es",
+                      "osx",
+                      "raspberry-pi",
+                      "raspberrypi",
+                      "shaders",
+                      "texture",
+                      "uniform",
+                      "vertex-shaders",
+                      "webgl"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:08:21.873Z"
                 }
@@ -245,12 +366,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LYGIA, it's a granular and multi-language (GLSL, HLSL, Metal,  WGSL,  WEGL and CUDA) shader library designed for performance and flexibility",
+                "homepage": "https://lygia.xyz",
                 "id": 355252375,
                 "language": "GLSL",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-17T11:09:31Z",
+                "open_issues": 19,
                 "owner": "patriciogonzalezvivo",
                 "repo": "lygia",
-                "stars": 3418
+                "stars": 3418,
+                "topics": [
+                  "cuda",
+                  "directx",
+                  "glsl",
+                  "hlsl",
+                  "library",
+                  "metal",
+                  "opengl",
+                  "shader",
+                  "vulkan",
+                  "webgl",
+                  "webgpu",
+                  "wesl",
+                  "wgsl"
+                ]
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
             }
@@ -268,12 +408,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A camera control for three.js, similar to THREE.OrbitControls yet supports smooth transitions and more features.",
+                "homepage": "https://yomotsu.github.io/camera-controls/",
                 "id": 97438120,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T00:07:34Z",
+                "open_issues": 99,
                 "owner": "yomotsu",
                 "repo": "camera-controls",
-                "stars": 2422
+                "stars": 2422,
+                "topics": [
+                  "camera",
+                  "orbitcontrols",
+                  "threejs"
+                ]
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
             },
@@ -284,12 +433,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A gizmo-style pivot control for vanilla Three.js — drag to translate, rotate, and scale 3D objects with mouse and touch.",
+                "homepage": "https://bbdaii.github.io/three-pivot-controls/",
                 "id": 1304099252,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-19T07:28:17Z",
+                "open_issues": 0,
                 "owner": "bbdaii",
                 "repo": "three-pivot-controls",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "gizmo",
+                  "pivot-controls",
+                  "three",
+                  "three-js",
+                  "threejs",
+                  "threejs-example",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
             }
@@ -309,12 +471,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🇨🇭 A React renderer for Three.js",
+                    "homepage": "https://docs.pmnd.rs/react-three-fiber",
                     "id": 172521926,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T15:28:41Z",
+                    "open_issues": 51,
                     "owner": "pmndrs",
                     "repo": "react-three-fiber",
-                    "stars": 31820
+                    "stars": 31821,
+                    "topics": [
+                      "3d",
+                      "animation",
+                      "fiber",
+                      "react",
+                      "renderer",
+                      "threejs"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:08:21.873Z"
                 },
@@ -325,12 +499,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🥉 useful helpers for react-three-fiber",
+                    "homepage": "https://docs.pmnd.rs/drei",
                     "id": 259117468,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-25T09:11:45Z",
+                    "open_issues": 108,
                     "owner": "pmndrs",
                     "repo": "drei",
-                    "stars": 9824
+                    "stars": 9825,
+                    "topics": [
+                      "helpers",
+                      "hooks",
+                      "react",
+                      "react-three-fiber",
+                      "threejs"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:08:21.873Z"
                 },
@@ -341,12 +526,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "📬  Postprocessing for react-three-fiber",
+                    "homepage": "https://docs.pmnd.rs/react-postprocessing",
                     "id": 262026124,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T16:43:06Z",
+                    "open_issues": 20,
                     "owner": "pmndrs",
                     "repo": "react-postprocessing",
-                    "stars": 1383
+                    "stars": 1384,
+                    "topics": [
+                      "3d",
+                      "postprocessing",
+                      "react",
+                      "react-postprocessing",
+                      "react-three-fiber",
+                      "threejs",
+                      "webgl"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:08:21.873Z"
                 },
@@ -357,12 +555,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cinematic portfolio hero — particles morph between your country flag and your name. React Three Fiber, zero shaders, one drop-in component.",
+                    "homepage": null,
                     "id": 1262331674,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-06-07T22:12:25Z",
+                    "open_issues": 0,
                     "owner": "othmarodev",
                     "repo": "morph-hero",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:08:21.873Z"
                 }
@@ -380,12 +583,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "🧊 THREE.js integration for Angular 🧊",
+                    "homepage": "https://angular-three.netlify.app/",
                     "id": 358472076,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-02-10T03:31:56Z",
+                    "open_issues": 8,
                     "owner": "nartc",
                     "repo": "angular-three",
-                    "stars": 309
+                    "stars": 309,
+                    "topics": [
+                      "3d",
+                      "angular",
+                      "threejs"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:08:21.873Z"
                 }
@@ -403,12 +615,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "✨ ThreeJS + VueJS 3 + ViteJS ⚡",
+                    "homepage": "https://troisjs.github.io",
                     "id": 295031696,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-07-18T13:58:34Z",
+                    "open_issues": 75,
                     "owner": "troisjs",
                     "repo": "trois",
-                    "stars": 4500
+                    "stars": 4500,
+                    "topics": [
+                      "3d",
+                      "three-js",
+                      "threejs",
+                      "vitejs",
+                      "vuejs",
+                      "vuejs3",
+                      "webgl"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:08:21.873Z"
                 },
@@ -419,12 +644,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Declarative ThreeJS using Vue Components",
+                    "homepage": "https://tresjs.org",
                     "id": 571314349,
                     "language": "Vue",
+                    "license": "MIT",
                     "last_commit": "2026-08-17T22:09:44Z",
+                    "open_issues": 101,
                     "owner": "Tresjs",
                     "repo": "tres",
-                    "stars": 3677
+                    "stars": 3677,
+                    "topics": [
+                      "composable",
+                      "custom-renderer",
+                      "declarative",
+                      "threejs",
+                      "vite",
+                      "vue",
+                      "webgl"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:08:21.873Z"
                 },
@@ -435,12 +673,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Collection of useful helpers and fully functional, ready-made abstractions for TresJS",
+                    "homepage": "https://cientos.tresjs.org/",
                     "id": 616001108,
                     "language": "Vue",
+                    "license": "MIT",
                     "last_commit": "2026-02-01T09:47:42Z",
+                    "open_issues": 33,
                     "owner": "Tresjs",
                     "repo": "cientos",
-                    "stars": 369
+                    "stars": 369,
+                    "topics": [
+                      "3d",
+                      "abstractions",
+                      "composable",
+                      "declarative",
+                      "threejs",
+                      "vite",
+                      "vue",
+                      "webgl"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:08:21.873Z"
                 },
@@ -451,12 +703,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Post-processing library for TresJS",
+                    "homepage": "https://post-processing.tresjs.org/",
                     "id": 629393111,
                     "language": "Vue",
+                    "license": "MIT",
                     "last_commit": "2026-02-01T09:47:49Z",
+                    "open_issues": 13,
                     "owner": "Tresjs",
                     "repo": "post-processing",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": [
+                      "effects",
+                      "postprocessing",
+                      "three",
+                      "tres",
+                      "tresjs"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:08:21.873Z"
                 }
@@ -474,12 +737,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "3D framework for Svelte",
+                    "homepage": "https://threlte.xyz",
                     "id": 448331182,
                     "language": "Svelte",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T02:07:50Z",
+                    "open_issues": 67,
                     "owner": "threlte",
                     "repo": "threlte",
-                    "stars": 3334
+                    "stars": 3334,
+                    "topics": [
+                      "3d",
+                      "hacktoberfest",
+                      "rapier",
+                      "svelte",
+                      "theatrejs",
+                      "threejs"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:08:21.873Z"
                 },
@@ -490,12 +765,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Svelte ❤️ Three",
+                    "homepage": "svelte-cubed.vercel.app",
                     "id": 368658267,
                     "language": "Svelte",
+                    "license": "MIT",
                     "last_commit": "2023-01-07T02:57:53Z",
+                    "open_issues": 47,
                     "owner": "Rich-Harris",
                     "repo": "svelte-cubed",
-                    "stars": 1186
+                    "stars": 1186,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:08:21.873Z"
                 },
@@ -506,12 +786,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "📬 postprocessing for svelte three.js (threlte)",
+                    "homepage": null,
                     "id": 931094489,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-05-20T08:45:17Z",
+                    "open_issues": 0,
                     "owner": "1bye",
                     "repo": "threlte-postprocessing",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": [
+                      "3d",
+                      "js",
+                      "postprocessing",
+                      "svelte",
+                      "svelte-postprocessing",
+                      "threejs",
+                      "threlte",
+                      "ts",
+                      "webgl"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:08:21.873Z"
                 }
@@ -534,12 +829,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2D and 3D physics engines focused on performance.",
+                "homepage": "https://rapier.rs",
                 "id": 290312103,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T15:29:38Z",
+                "open_issues": 51,
                 "owner": "dimforge",
                 "repo": "rapier",
-                "stars": 5693
+                "stars": 5693,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
             },
@@ -550,12 +850,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Direct port of the Bullet physics engine to JavaScript using Emscripten",
+                "homepage": null,
                 "id": 1815807,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-16T19:27:27Z",
+                "open_issues": 175,
                 "owner": "kripken",
                 "repo": "ammo.js",
-                "stars": 4558
+                "stars": 4558,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
             },
@@ -566,12 +871,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💣 A lightweight 3D physics engine written in JavaScript.",
+                "homepage": "https://pmndrs.github.io/cannon-es/",
                 "id": 244610083,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-01-06T04:10:33Z",
+                "open_issues": 58,
                 "owner": "pmndrs",
                 "repo": "cannon-es",
-                "stars": 2054
+                "stars": 2054,
+                "topics": [
+                  "cannonjs",
+                  "physics"
+                ]
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
             }
@@ -589,12 +902,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A BVH implementation to speed up raycasting and enable spatial queries against three.js meshes.",
+                "homepage": "https://gkjohnson.github.io/three-mesh-bvh/example/bundle/raycast.html",
                 "id": 118064695,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-10T23:17:53Z",
+                "open_issues": 84,
                 "owner": "gkjohnson",
                 "repo": "three-mesh-bvh",
-                "stars": 3464
+                "stars": 3465,
+                "topics": [
+                  "acceleration",
+                  "bounds",
+                  "bounds-hierarchy",
+                  "bvh",
+                  "distance",
+                  "geometry",
+                  "graphics",
+                  "intersection",
+                  "mesh",
+                  "pathtracing",
+                  "performance",
+                  "point-cloud",
+                  "pointcloud",
+                  "raycast",
+                  "raytracing",
+                  "three-js",
+                  "three-mesh-bvh",
+                  "threejs",
+                  "tree",
+                  "webvr"
+                ]
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
             }
@@ -612,12 +951,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A flexible, memory compact, fast and dynamic CSG implementation on top of three-mesh-bvh",
+                "homepage": null,
                 "id": 493750303,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T07:58:08Z",
+                "open_issues": 51,
                 "owner": "gkjohnson",
                 "repo": "three-bvh-csg",
-                "stars": 943
+                "stars": 943,
+                "topics": [
+                  "3d-printing",
+                  "computational-solid-geometry",
+                  "construction",
+                  "constructive-solid-geometry",
+                  "csg",
+                  "game-development",
+                  "geometry",
+                  "graphics",
+                  "three",
+                  "three-mesh-bvh",
+                  "threejs",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
             }
@@ -635,12 +992,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A comprehensive path-finding library for grid based games",
+                "homepage": "http://qiao.github.io/PathFinding.js/visual/",
                 "id": 2525502,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-06-20T20:59:22Z",
+                "open_issues": 106,
                 "owner": "qiao",
                 "repo": "PathFinding.js",
-                "stars": 8712
+                "stars": 8712,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
             },
@@ -651,12 +1013,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Navigation mesh utilities for three.js, based on PatrolJS.",
+                "homepage": "https://three-pathfinding.donmccurdy.com/",
                 "id": 102173984,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-08T20:19:28Z",
+                "open_issues": 7,
                 "owner": "donmccurdy",
                 "repo": "three-pathfinding",
-                "stars": 1369
+                "stars": 1369,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
             },
@@ -667,12 +1034,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pluggable steering library for game AI.",
+                "homepage": null,
                 "id": 260700918,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-06T04:49:38Z",
+                "open_issues": 6,
                 "owner": "oguzeroglu",
                 "repo": "Kompute",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "ai",
+                  "game-ai",
+                  "game-development",
+                  "game-engine",
+                  "threejs",
+                  "webgame",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
             }
@@ -690,12 +1070,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Webbased Character Animation System",
+                "homepage": null,
                 "id": 434946252,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-11-19T05:02:48Z",
+                "open_issues": 13,
                 "owner": "sketchpunklabs",
                 "repo": "ossos",
-                "stars": 501
+                "stars": 501,
+                "topics": [
+                  "animation",
+                  "animator",
+                  "armature",
+                  "ikrig",
+                  "inverse-kinematics",
+                  "metaverse",
+                  "skeleton",
+                  "typescipt",
+                  "webgl",
+                  "webgpu",
+                  "webxr"
+                ]
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
             }
@@ -719,12 +1116,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebGL FFT (Fast Fourier transform) ocean rendering for Three.js",
+                "homepage": "https://jbouny.github.io/fft-ocean/",
                 "id": 26395621,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-11-12T18:24:03Z",
+                "open_issues": 5,
                 "owner": "jbouny",
                 "repo": "fft-ocean",
-                "stars": 351
+                "stars": 351,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
             },
@@ -735,12 +1137,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Three.js GPU height field water libraries",
+                "homepage": "http://cg.skeelogy.com/skunamijs/",
                 "id": 13284427,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2013-10-26T03:26:27Z",
+                "open_issues": 1,
                 "owner": "skeelogy",
                 "repo": "skunami.js",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
             }
@@ -758,12 +1165,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Demos for 3D AABB collision detection",
+                "homepage": "http://mozdevs.github.io/gamedev-js-3d-aabb/",
                 "id": 44307768,
                 "language": "JavaScript",
+                "license": "MPL-2.0",
                 "last_commit": "2019-01-17T22:25:23Z",
+                "open_issues": 0,
                 "owner": "mozdevs",
                 "repo": "gamedev-js-3d-aabb",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
             }
@@ -785,12 +1197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome computer vision resources",
+            "homepage": null,
             "id": 29357796,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-17T14:24:27Z",
+            "open_issues": 92,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23520
+            "stars": 23520,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:21.873Z"
         },
@@ -801,12 +1218,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":video_game: :pencil: A list of Game Development resources to make magic happen.",
+            "homepage": null,
             "id": 21958186,
             "language": "Markdown",
-            "last_commit": "2026-08-28T17:26:39Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:14:32Z",
+            "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17212
+            "stars": 17212,
+            "topics": [
+              "art",
+              "awesome",
+              "awesome-list",
+              "board-games",
+              "curated",
+              "design",
+              "frameworks",
+              "game-design",
+              "game-development",
+              "game-engine",
+              "game-jam",
+              "game-programming",
+              "gamedev",
+              "games",
+              "hacktoberfest",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T23:08:21.873Z"
         },
@@ -817,12 +1256,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.",
+            "homepage": null,
             "id": 72586805,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-07-21T15:01:30Z",
+            "open_issues": 8,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15253
+            "stars": 15255,
+            "topics": [
+              "3d-graphics",
+              "art",
+              "awesome",
+              "awesome-list",
+              "computer-graphics",
+              "creative-coding",
+              "data-visualization",
+              "design",
+              "generative-art",
+              "graphics-programming",
+              "information-visualization",
+              "interaction-design",
+              "list",
+              "programming-graphics",
+              "resources",
+              "shaders",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T23:08:21.873Z"
         },
@@ -833,12 +1295,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Vulkan ecosystem",
+            "homepage": "https://vinjn.github.io/awesome-vulkan/",
             "id": 51843752,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-11T04:37:02Z",
+            "open_issues": 5,
             "owner": "vinjn",
             "repo": "awesome-vulkan",
-            "stars": 3714
+            "stars": 3714,
+            "topics": [
+              "amd",
+              "arm",
+              "khronos",
+              "nvidia",
+              "opengl",
+              "qualcomm",
+              "vulkan",
+              "vulkan-api",
+              "vulkan-libraries"
+            ]
           },
           "first_seen": "2026-08-28T23:08:21.873Z"
         },
@@ -849,12 +1326,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome OpenGL libraries, debuggers and resources.",
+            "homepage": null,
             "id": 37971591,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-09T12:26:55Z",
+            "open_issues": 0,
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2437
+            "stars": 2437,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "computer-graphics",
+              "game-development",
+              "glsl-editors",
+              "graphics-pipeline",
+              "lists",
+              "opengl",
+              "opengl-library",
+              "opengl-tutorial",
+              "video-tutorial"
+            ]
           },
           "first_seen": "2026-08-28T23:08:21.873Z"
         },
@@ -865,12 +1359,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Curated list of awesome things around WebGPU ecosystem. ",
+            "homepage": null,
             "id": 240231984,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-01-21T09:09:35Z",
+            "open_issues": 20,
             "owner": "mikbry",
             "repo": "awesome-webgpu",
-            "stars": 1968
+            "stars": 1968,
+            "topics": [
+              "3d",
+              "awesome",
+              "awesome-list",
+              "gpu-computing",
+              "javascript",
+              "w3c",
+              "webgl",
+              "webgpu"
+            ]
           },
           "first_seen": "2026-08-28T23:08:21.873Z"
         },
@@ -881,12 +1389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":memo: a list of graphic programming resources",
+            "homepage": null,
             "id": 38935281,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-12-30T21:02:56Z",
+            "open_issues": 5,
             "owner": "mattdesl",
             "repo": "graphics-resources",
-            "stars": 1853
+            "stars": 1854,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:21.873Z"
         },
@@ -897,12 +1410,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome WebGL libraries, resources and much more",
+            "homepage": null,
             "id": 77980522,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-04-02T03:35:40Z",
+            "open_issues": 16,
             "owner": "sjfricke",
             "repo": "awesome-webgl",
-            "stars": 1528
+            "stars": 1529,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "glsl-editors",
+              "learning-webgl",
+              "list",
+              "webgl",
+              "webgl-articles",
+              "webgl-programming",
+              "webgl-references",
+              "webgl-spec-sheet",
+              "webgl-tutorials"
+            ]
           },
           "first_seen": "2026-08-28T23:08:21.873Z"
         },
@@ -913,12 +1443,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sparkler: Compilation of the best resources to learn programming OpenGL Shaders",
+            "homepage": null,
             "id": 110746033,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-08-21T17:06:46Z",
+            "open_issues": 0,
             "owner": "vanrez-nez",
             "repo": "awesome-glsl",
-            "stars": 1365
+            "stars": 1365,
+            "topics": [
+              "computer-graphics",
+              "creative-coding",
+              "fragment-shader",
+              "glsl",
+              "glsl-shader",
+              "graphics-programming",
+              "html5",
+              "opengl",
+              "vertex-shaders",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T23:08:21.873Z"
         }
@@ -927,15 +1473,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:08:21.873Z",
+    "last_updated": "2026-08-29T04:38:57.627Z",
     "original_repository_info": {
       "archived": false,
+      "description": "3️⃣ A curated list of awesome ThreeJS resources",
+      "homepage": null,
       "id": 509383637,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-28T12:46:03Z",
+      "open_issues": 15,
       "owner": "AxiomeCG",
       "repo": "awesome-threejs",
-      "stars": 970
+      "stars": 970,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "creative-coding",
+        "generative",
+        "resources",
+        "threejs",
+        "threejs-example",
+        "threejs-learning"
+      ]
     },
     "original_repository_sha": "f99efd9cfd1f5de6904a2f13d00e4863f0e23cd7",
     "enhanced_repository": "enhansome/enhansome-threejs",
