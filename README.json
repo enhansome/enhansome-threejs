@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "nidorx",
                 "repo": "matcaps",
-                "stars": 3355,
+                "stars": 3356,
                 "topics": [
                   "blender-3d",
                   "envmap",
@@ -65,7 +65,7 @@
                     "open_issues": 9,
                     "owner": "jbouny",
                     "repo": "ocean",
-                    "stars": 800,
+                    "stars": 801,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:08:21.873Z"
@@ -125,6 +125,55 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Audio Reactive 3D Visualizer",
+              "description": "An MIT-licensed browser-based music visualizer combining Three.js, WebGL, and the Web Audio API, with real-time rendering and Full HD MP4 export — by @7g3n.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source audio-reactive 3D visualizer for musicians, built with Three.js, WebGL, the Web Audio API, and browser-based MP4 export.",
+                "homepage": "https://waveform.tranjectories.xyz/",
+                "id": 1250835731,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-07-01T09:17:46Z",
+                "open_issues": 6,
+                "owner": "7g3n",
+                "repo": "phase-viz",
+                "stars": 19,
+                "topics": [
+                  "3d-graphics",
+                  "audio-reactive",
+                  "audio-visualizer",
+                  "creative-coding",
+                  "ffmpeg-wasm",
+                  "glsl",
+                  "music-visualizer",
+                  "particles",
+                  "react",
+                  "react-three-fiber",
+                  "realtime",
+                  "shader",
+                  "three-js",
+                  "threejs",
+                  "typescript",
+                  "video-processing",
+                  "web-audio-api",
+                  "webassembly",
+                  "webcodecs",
+                  "webgl"
+                ]
+              },
+              "first_seen": "2026-09-08T17:19:26.129Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Audio Visualization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "gltf-transform",
               "description": "CLI to run on your GLTF file for a lot of different optimizations (welding, pruning, draco compression...). It also enables the conversion of textures into KTX2 for optimizing textures on the GPU by @donmccurdy",
               "children": [],
@@ -135,11 +184,11 @@
                 "id": 12136516,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-06T09:18:44Z",
-                "open_issues": 46,
+                "last_commit": "2026-09-08T02:08:14Z",
+                "open_issues": 44,
                 "owner": "KhronosGroup",
                 "repo": "KTX-Software",
-                "stars": 1351,
+                "stars": 1352,
                 "topics": [
                   "ktx",
                   "ktx-library",
@@ -205,7 +254,7 @@
                 "open_issues": 81,
                 "owner": "img2threejs",
                 "repo": "img2threejs",
-                "stars": 15475,
+                "stars": 15563,
                 "topics": [
                   "3d",
                   "ai-agents",
@@ -371,7 +420,7 @@
                 "id": 355252375,
                 "language": "GLSL",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-17T11:09:31Z",
+                "last_commit": "2026-09-08T01:54:26Z",
                 "open_issues": 19,
                 "owner": "patriciogonzalezvivo",
                 "repo": "lygia",
@@ -417,7 +466,7 @@
                 "open_issues": 101,
                 "owner": "yomotsu",
                 "repo": "camera-controls",
-                "stars": 2423,
+                "stars": 2424,
                 "topics": [
                   "camera",
                   "orbitcontrols",
@@ -476,11 +525,11 @@
                     "id": 172521926,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-07T12:58:48Z",
-                    "open_issues": 72,
+                    "last_commit": "2026-09-08T06:09:37Z",
+                    "open_issues": 71,
                     "owner": "pmndrs",
                     "repo": "react-three-fiber",
-                    "stars": 32166,
+                    "stars": 32196,
                     "topics": [
                       "3d",
                       "animation",
@@ -504,11 +553,11 @@
                     "id": 259117468,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-05T13:19:39Z",
-                    "open_issues": 138,
+                    "last_commit": "2026-09-07T19:27:38Z",
+                    "open_issues": 139,
                     "owner": "pmndrs",
                     "repo": "drei",
-                    "stars": 9850,
+                    "stars": 9856,
                     "topics": [
                       "helpers",
                       "hooks",
@@ -653,7 +702,7 @@
                     "open_issues": 100,
                     "owner": "Tresjs",
                     "repo": "tres",
-                    "stars": 3698,
+                    "stars": 3700,
                     "topics": [
                       "composable",
                       "custom-renderer",
@@ -746,7 +795,7 @@
                     "open_issues": 70,
                     "owner": "threlte",
                     "repo": "threlte",
-                    "stars": 3336,
+                    "stars": 3338,
                     "topics": [
                       "3d",
                       "hacktoberfest",
@@ -835,7 +884,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T15:29:38Z",
-                "open_issues": 54,
+                "open_issues": 56,
                 "owner": "dimforge",
                 "repo": "rapier",
                 "stars": 5720,
@@ -859,7 +908,7 @@
                 "open_issues": 176,
                 "owner": "kripken",
                 "repo": "ammo.js",
-                "stars": 4564,
+                "stars": 4566,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
@@ -877,7 +926,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2024-01-06T04:10:33Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "pmndrs",
                 "repo": "cannon-es",
                 "stars": 2057,
@@ -907,11 +956,11 @@
                 "id": 118064695,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T01:42:20Z",
+                "last_commit": "2026-09-08T08:59:01Z",
                 "open_issues": 82,
                 "owner": "gkjohnson",
                 "repo": "three-mesh-bvh",
-                "stars": 3479,
+                "stars": 3480,
                 "topics": [
                   "acceleration",
                   "bounds",
@@ -1001,7 +1050,7 @@
                 "open_issues": 106,
                 "owner": "qiao",
                 "repo": "PathFinding.js",
-                "stars": 8716,
+                "stars": 8717,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
@@ -1227,7 +1276,7 @@
             "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17262,
+            "stars": 17266,
             "topics": [
               "art",
               "awesome",
@@ -1265,7 +1314,7 @@
             "open_issues": 11,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15298,
+            "stars": 15299,
             "topics": [
               "3d-graphics",
               "art",
@@ -1368,7 +1417,7 @@
             "open_issues": 23,
             "owner": "mikbry",
             "repo": "awesome-webgpu",
-            "stars": 1969,
+            "stars": 1970,
             "topics": [
               "3d",
               "awesome",
@@ -1419,7 +1468,7 @@
             "open_issues": 16,
             "owner": "sjfricke",
             "repo": "awesome-webgl",
-            "stars": 1530,
+            "stars": 1531,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1473,7 +1522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:19:02.254Z",
+    "last_updated": "2026-09-08T17:19:26.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "3️⃣ A curated list of awesome ThreeJS resources",
