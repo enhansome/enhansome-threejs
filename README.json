@@ -188,7 +188,7 @@
                 "open_issues": 46,
                 "owner": "KhronosGroup",
                 "repo": "KTX-Software",
-                "stars": 1356,
+                "stars": 1357,
                 "topics": [
                   "ktx",
                   "ktx-library",
@@ -254,7 +254,7 @@
                 "open_issues": 87,
                 "owner": "img2threejs",
                 "repo": "img2threejs",
-                "stars": 15987,
+                "stars": 16114,
                 "topics": [
                   "3d",
                   "ai-agents",
@@ -424,7 +424,7 @@
                 "open_issues": 20,
                 "owner": "patriciogonzalezvivo",
                 "repo": "lygia",
-                "stars": 3432,
+                "stars": 3433,
                 "topics": [
                   "cuda",
                   "directx",
@@ -526,10 +526,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-09-13T13:32:18Z",
-                    "open_issues": 74,
+                    "open_issues": 73,
                     "owner": "pmndrs",
                     "repo": "react-three-fiber",
-                    "stars": 32297,
+                    "stars": 32308,
                     "topics": [
                       "3d",
                       "animation",
@@ -698,11 +698,11 @@
                     "id": 571314349,
                     "language": "Vue",
                     "license": "MIT",
-                    "last_commit": "2026-09-14T09:30:47Z",
+                    "last_commit": "2026-09-15T12:55:09Z",
                     "open_issues": 103,
                     "owner": "Tresjs",
                     "repo": "tres",
-                    "stars": 3706,
+                    "stars": 3715,
                     "topics": [
                       "composable",
                       "custom-renderer",
@@ -791,11 +791,11 @@
                     "id": 448331182,
                     "language": "Svelte",
                     "license": "MIT",
-                    "last_commit": "2026-09-11T13:41:33Z",
+                    "last_commit": "2026-09-15T11:22:32Z",
                     "open_issues": 70,
                     "owner": "threlte",
                     "repo": "threlte",
-                    "stars": 3338,
+                    "stars": 3339,
                     "topics": [
                       "3d",
                       "hacktoberfest",
@@ -908,7 +908,7 @@
                 "open_issues": 175,
                 "owner": "kripken",
                 "repo": "ammo.js",
-                "stars": 4566,
+                "stars": 4568,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
@@ -1276,7 +1276,7 @@
             "open_issues": 15,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17301,
+            "stars": 17306,
             "topics": [
               "art",
               "awesome",
@@ -1384,7 +1384,7 @@
             "open_issues": 0,
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2439,
+            "stars": 2441,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1417,7 +1417,7 @@
             "open_issues": 17,
             "owner": "mikbry",
             "repo": "awesome-webgpu",
-            "stars": 1978,
+            "stars": 1981,
             "topics": [
               "3d",
               "awesome",
@@ -1522,7 +1522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:47:31.603Z",
+    "last_updated": "2026-09-15T17:43:03.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "3️⃣ A curated list of awesome ThreeJS resources",
