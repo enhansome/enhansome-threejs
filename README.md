@@ -169,7 +169,7 @@
 
 ## Debug/Optimization
 
-* [gltf-transform](https://gltf-transform.dev/): CLI to run on your GLTF file for a lot of different optimizations (welding, pruning, draco compression...). It also enables the conversion of textures into [KTX2](https://github.com/KhronosGroup/KTX-Software) ⭐ 1,373 | 🐛 57 | 🌐 C++ | 📅 2026-10-01 for optimizing textures on the GPU by [@donmccurdy](https://github.com/donmccurdy)
+* [gltf-transform](https://gltf-transform.dev/): CLI to run on your GLTF file for a lot of different optimizations (welding, pruning, draco compression...). It also enables the conversion of textures into [KTX2](https://github.com/KhronosGroup/KTX-Software) ⭐ 1,373 | 🐛 57 | 🌐 C++ | 📅 2026-10-03 for optimizing textures on the GPU by [@donmccurdy](https://github.com/donmccurdy)
 * [GLTF Report](https://gltf.report): Web app to diagnose, optimize your gltf files. Nice inspector that even support BASIS/KTX2 textures. by [@donmccurdy](https://github.com/donmccurdy)
 
 ## Scene Creation
@@ -180,7 +180,7 @@
 
 ## 3D modeling
 
-* [img2threejs](https://github.com/hoainho/img2threejs) ⭐ 17,374 | 🐛 103 | 🌐 Python | 📅 2026-09-23: Rebuild the object in a reference image as a code-only, procedural, quality-gated Three.js model. Pure-Python stdlib tooling emits diffable TypeScript, no downloaded meshes. by [@hoainho](https://github.com/hoainho)
+* [img2threejs](https://github.com/hoainho/img2threejs) ⭐ 17,399 | 🐛 103 | 🌐 Python | 📅 2026-09-23: Rebuild the object in a reference image as a code-only, procedural, quality-gated Three.js model. Pure-Python stdlib tooling emits diffable TypeScript, no downloaded meshes. by [@hoainho](https://github.com/hoainho)
 * [Blender](https://www.blender.org/): Free and powerful to create your own 3D assets. A lot of export file extensions
   are available.
 * [Houdini](https://www.sidefx.com/products/houdini/): To create procedural 3D assets. The free licence "Houdini
@@ -229,7 +229,7 @@
 
 ## GLSL/HLSL Shaders
 
-* [lygia](https://github.com/patriciogonzalezvivo/lygia) ⭐ 3,451 | 🐛 25 | 🌐 GLSL | 📅 2026-09-14:  a granular and multi-language shader library designed for performance and flexibility by [@patriciogv](https://twitter.com/patriciogv). A cross platform library that will help you iterate on your shaders very easily. Going deep in the code of a specific functionality can also help you learn GLSL/HLSL.
+* [lygia](https://github.com/patriciogonzalezvivo/lygia) ⭐ 3,452 | 🐛 26 | 🌐 GLSL | 📅 2026-09-14:  a granular and multi-language shader library designed for performance and flexibility by [@patriciogv](https://twitter.com/patriciogv). A cross platform library that will help you iterate on your shaders very easily. Going deep in the code of a specific functionality can also help you learn GLSL/HLSL.
 
 ## Animation
 
@@ -244,7 +244,7 @@
 
 ### React
 
-* [react-three-fiber](https://github.com/pmndrs/react-three-fiber) ⭐ 32,673 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-02: A declarative way of handling your ThreeJS stuff for
+* [react-three-fiber](https://github.com/pmndrs/react-three-fiber) ⭐ 32,680 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-02: A declarative way of handling your ThreeJS stuff for
   React by [@pmndrs](https://github.com/pmndrs)
 * [drei](https://github.com/pmndrs/drei) ⭐ 9,911 | 🐛 133 | 🌐 JavaScript | 📅 2026-09-30: Useful helpers for react-three-fiber by [@pmndrs](https://github.com/pmndrs)
 * [react-postprocessing](https://github.com/pmndrs/react-postprocessing) ⭐ 1,395 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-27: A postprocessing wrapper for @react-three/fiber by [@pmndrs](https://github.com/pmndrs)
@@ -273,7 +273,7 @@
 
 ## Physics
 
-* [Rapier](https://github.com/dimforge/rapier) ⭐ 5,804 | 🐛 66 | 🌐 Rust | 📅 2026-09-27 by [@dimforge](https://github.com/dimforge/)
+* [Rapier](https://github.com/dimforge/rapier) ⭐ 5,806 | 🐛 66 | 🌐 Rust | 📅 2026-09-27 by [@dimforge](https://github.com/dimforge/)
 * [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,575 | 🐛 177 | 🌐 C++ | 📅 2026-09-22
 * [cannon-es](https://github.com/pmndrs/cannon-es) ⭐ 2,060 | 🐛 59 | 🌐 TypeScript | 📅 2024-01-06 by [@pmndrs](https://github.com/pmndrs/)
 * [Oimo.js](https://lo-th.github.io/Oimo.js/#basic)
@@ -334,13 +334,13 @@ Or you can reach me on Twitter:
 
 * [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,586 | 🐛 99 | 📅 2024-05-17 - A curated list of awesome computer
   vision resources.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,404 | 🐛 27 | 🌐 Markdown | 📅 2026-09-26 - A awesome list about game development.
-* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,387 | 🐛 14 | 🌐 HTML | 📅 2026-07-21 - A carefully curated list of awesome
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,407 | 🐛 27 | 🌐 Markdown | 📅 2026-09-26 - A awesome list about game development.
+* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,390 | 🐛 14 | 🌐 HTML | 📅 2026-07-21 - A carefully curated list of awesome
   creative coding resources primarily for beginners/intermediates.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,724 | 🐛 6 | 📅 2026-05-11 - A curated list of awesome Vulkan projects and ecosystem.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,446 | 🐛 0 | 📅 2026-01-09 - A curated list of awesome OpenGL libraries, debuggers and
   resources.
-* [awesome-webgpu](https://github.com/mikbry/awesome-webgpu) ⭐ 1,993 | 🐛 25 | 📅 2026-09-10 - A curated list of awesome WebGPU resources.
+* [awesome-webgpu](https://github.com/mikbry/awesome-webgpu) ⭐ 1,992 | 🐛 25 | 📅 2026-09-10 - A curated list of awesome WebGPU resources.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,855 | 🐛 5 | 📅 2020-12-30 - A list of graphic programming resources.
 * [awesome-webgl](https://github.com/sjfricke/awesome-webgl) ⭐ 1,538 | 🐛 19 | 📅 2026-04-02 - A curated list of awesome WebGL libraries, resources and
   much more.
@@ -348,4 +348,4 @@ Or you can reach me on Twitter:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
