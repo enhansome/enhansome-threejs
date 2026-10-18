@@ -126,7 +126,7 @@
 
 ## Matcaps
 
-* [Matcap repository](https://github.com/nidorx/matcaps) ⭐ 3,382 | 🐛 3 | 🌐 JavaScript | 📅 2025-10-13
+* [Matcap repository](https://github.com/nidorx/matcaps) ⭐ 3,384 | 🐛 3 | 🌐 JavaScript | 📅 2025-10-13
 
 ## 3D assets
 
@@ -163,13 +163,13 @@
 
 ## Audio Visualization
 
-* [Audio Reactive 3D Visualizer](https://github.com/7g3n/phase-viz) ⭐ 21 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-01: An MIT-licensed browser-based music
+* [Audio Reactive 3D Visualizer](https://github.com/7g3n/phase-viz) ⭐ 22 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-01: An MIT-licensed browser-based music
   visualizer combining Three.js, WebGL, and the Web Audio API, with real-time rendering and Full HD MP4 export
   — by [@7g3n](https://github.com/7g3n).
 
 ## Debug/Optimization
 
-* [gltf-transform](https://gltf-transform.dev/): CLI to run on your GLTF file for a lot of different optimizations (welding, pruning, draco compression...). It also enables the conversion of textures into [KTX2](https://github.com/KhronosGroup/KTX-Software) ⭐ 1,387 | 🐛 66 | 🌐 C++ | 📅 2026-10-17 for optimizing textures on the GPU by [@donmccurdy](https://github.com/donmccurdy)
+* [gltf-transform](https://gltf-transform.dev/): CLI to run on your GLTF file for a lot of different optimizations (welding, pruning, draco compression...). It also enables the conversion of textures into [KTX2](https://github.com/KhronosGroup/KTX-Software) ⭐ 1,385 | 🐛 61 | 🌐 C++ | 📅 2026-10-18 for optimizing textures on the GPU by [@donmccurdy](https://github.com/donmccurdy)
 * [GLTF Report](https://gltf.report): Web app to diagnose, optimize your gltf files. Nice inspector that even support BASIS/KTX2 textures. by [@donmccurdy](https://github.com/donmccurdy)
 
 ## Scene Creation
@@ -180,7 +180,7 @@
 
 ## 3D modeling
 
-* [img2threejs](https://github.com/hoainho/img2threejs) ⭐ 18,298 | 🐛 106 | 🌐 Python | 📅 2026-10-17: Rebuild the object in a reference image as a code-only, procedural, quality-gated Three.js model. Pure-Python stdlib tooling emits diffable TypeScript, no downloaded meshes. by [@hoainho](https://github.com/hoainho)
+* [img2threejs](https://github.com/hoainho/img2threejs) ⭐ 18,360 | 🐛 107 | 🌐 Python | 📅 2026-10-17: Rebuild the object in a reference image as a code-only, procedural, quality-gated Three.js model. Pure-Python stdlib tooling emits diffable TypeScript, no downloaded meshes. by [@hoainho](https://github.com/hoainho)
 * [Blender](https://www.blender.org/): Free and powerful to create your own 3D assets. A lot of export file extensions
   are available.
 * [Houdini](https://www.sidefx.com/products/houdini/): To create procedural 3D assets. The free licence "Houdini
@@ -229,7 +229,7 @@
 
 ## GLSL/HLSL Shaders
 
-* [lygia](https://github.com/patriciogonzalezvivo/lygia) ⭐ 3,463 | 🐛 26 | 🌐 GLSL | 📅 2026-09-14:  a granular and multi-language shader library designed for performance and flexibility by [@patriciogv](https://twitter.com/patriciogv). A cross platform library that will help you iterate on your shaders very easily. Going deep in the code of a specific functionality can also help you learn GLSL/HLSL.
+* [lygia](https://github.com/patriciogonzalezvivo/lygia) ⭐ 3,465 | 🐛 26 | 🌐 GLSL | 📅 2026-09-14:  a granular and multi-language shader library designed for performance and flexibility by [@patriciogv](https://twitter.com/patriciogv). A cross platform library that will help you iterate on your shaders very easily. Going deep in the code of a specific functionality can also help you learn GLSL/HLSL.
 
 ## Animation
 
@@ -244,10 +244,10 @@
 
 ### React
 
-* [react-three-fiber](https://github.com/pmndrs/react-three-fiber) ⭐ 33,035 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-17: A declarative way of handling your ThreeJS stuff for
+* [react-three-fiber](https://github.com/pmndrs/react-three-fiber) ⭐ 33,053 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-17: A declarative way of handling your ThreeJS stuff for
   React by [@pmndrs](https://github.com/pmndrs)
-* [drei](https://github.com/pmndrs/drei) ⭐ 9,973 | 🐛 132 | 🌐 JavaScript | 📅 2026-10-16: Useful helpers for react-three-fiber by [@pmndrs](https://github.com/pmndrs)
-* [react-postprocessing](https://github.com/pmndrs/react-postprocessing) ⭐ 1,418 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-12: A postprocessing wrapper for @react-three/fiber by [@pmndrs](https://github.com/pmndrs)
+* [drei](https://github.com/pmndrs/drei) ⭐ 9,981 | 🐛 132 | 🌐 JavaScript | 📅 2026-10-16: Useful helpers for react-three-fiber by [@pmndrs](https://github.com/pmndrs)
+* [react-postprocessing](https://github.com/pmndrs/react-postprocessing) ⭐ 1,421 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-12: A postprocessing wrapper for @react-three/fiber by [@pmndrs](https://github.com/pmndrs)
 * [morph-hero](https://github.com/othmarodev/morph-hero) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-07: A cinematic portfolio hero component where particles morph between a country flag and a name, with constellation lines and mouse parallax. Single particle system architecture. Live demo at [morph-hero.othmaro.dev](https://morph-hero.othmaro.dev) by [@othmarodev](https://github.com/othmarodev)
 * [react-spring](https://www.react-spring.dev/): An awesome library about physically accurate animations. Works smoothly also for react-three-fiber using the package [`@react-spring/three`](https://www.react-spring.dev/docs/guides/react-three-fiber)
 * [framer-motion](https://www.framer.com/motion/): A nice animation library for react, and can be used with react-three-fiber too through the [`framer-motion-3d`](https://www.framer.com/motion/three-introduction/) package usage. Very nice for binding animation on entering and leaving the viewport element.
@@ -266,21 +266,21 @@
 
 ### Svelte
 
-* [Threlte](https://github.com/threlte/threlte) ⭐ 3,351 | 🐛 66 | 🌐 Svelte | 📅 2026-10-16: A three.js component library for Svelte
+* [Threlte](https://github.com/threlte/threlte) ⭐ 3,353 | 🐛 68 | 🌐 Svelte | 📅 2026-10-18: A three.js component library for Svelte
 * [svelte-cubed](https://github.com/Rich-Harris/svelte-cubed) ⭐ 1,184 | 🐛 47 | 🌐 Svelte | 📅 2023-01-07: Declarative ThreeJS for Svelte
   by [@Rich-Harris](https://github.com/Rich-Harris)
 * [threlte-postprocessing](https://github.com/1bye/threlte-postprocessing) ⭐ 30 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-20: A postprocessing wrapper for Threlte by [@1bye](https://github.com/1bye)
 
 ## Physics
 
-* [Rapier](https://github.com/dimforge/rapier) ⭐ 5,878 | 🐛 74 | 🌐 Rust | 📅 2026-10-10 by [@dimforge](https://github.com/dimforge/)
-* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,580 | 🐛 177 | 🌐 C++ | 📅 2026-09-22
+* [Rapier](https://github.com/dimforge/rapier) ⭐ 5,880 | 🐛 75 | 🌐 Rust | 📅 2026-10-10 by [@dimforge](https://github.com/dimforge/)
+* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,582 | 🐛 177 | 🌐 C++ | 📅 2026-09-22
 * [cannon-es](https://github.com/pmndrs/cannon-es) ⭐ 2,065 | 🐛 59 | 🌐 TypeScript | 📅 2024-01-06 by [@pmndrs](https://github.com/pmndrs/)
 * [Oimo.js](https://lo-th.github.io/Oimo.js/#basic)
 
 ## Spatial querying & Raycasting
 
-* [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) ⭐ 3,518 | 🐛 84 | 🌐 JavaScript | 📅 2026-10-12 by [@gkjohnson](https://github.com/gkjohnson/): Highly effective way to check for collisions and to accelerate raycasting by the usage of bounding volume hierarchy. (Really a must have in your toolkit)
+* [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) ⭐ 3,518 | 🐛 84 | 🌐 JavaScript | 📅 2026-10-18 by [@gkjohnson](https://github.com/gkjohnson/): Highly effective way to check for collisions and to accelerate raycasting by the usage of bounding volume hierarchy. (Really a must have in your toolkit)
 
 ## Constructive Solid Geometry
 
@@ -301,7 +301,7 @@
 
 ## Water
 
-* [fft-ocean](https://github.com/jbouny/fft-ocean) ⭐ 354 | 🐛 5 | 🌐 JavaScript | 📅 2015-11-12 Fast Fourier Transform ocean rendering for Three.js
+* [fft-ocean](https://github.com/jbouny/fft-ocean) ⭐ 355 | 🐛 5 | 🌐 JavaScript | 📅 2015-11-12 Fast Fourier Transform ocean rendering for Three.js
 * [skunami.js](https://github.com/skeelogy/skunami.js/) ⭐ 68 | 🐛 1 | 🌐 JavaScript | 📅 2013-10-26 Marvellous project with realistic water interaction
 * [Shallow water](https://vuoriov4.github.io/webgl-water-demo/) Demo project that shows water ripple effect
 
@@ -332,15 +332,15 @@ Or you can reach me on Twitter:
 
 # Related Lists
 
-* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,602 | 🐛 99 | 📅 2024-05-17 - A curated list of awesome computer
+* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,605 | 🐛 99 | 📅 2024-05-17 - A curated list of awesome computer
   vision resources.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,504 | 🐛 43 | 🌐 Markdown | 📅 2026-10-16 - A awesome list about game development.
-* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,448 | 🐛 20 | 🌐 HTML | 📅 2026-07-21 - A carefully curated list of awesome
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,509 | 🐛 47 | 🌐 Markdown | 📅 2026-10-16 - A awesome list about game development.
+* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,456 | 🐛 21 | 🌐 HTML | 📅 2026-07-21 - A carefully curated list of awesome
   creative coding resources primarily for beginners/intermediates.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,727 | 🐛 8 | 📅 2026-05-11 - A curated list of awesome Vulkan projects and ecosystem.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,449 | 🐛 0 | 📅 2026-01-09 - A curated list of awesome OpenGL libraries, debuggers and
   resources.
-* [awesome-webgpu](https://github.com/mikbry/awesome-webgpu) ⭐ 2,004 | 🐛 39 | 📅 2026-09-10 - A curated list of awesome WebGPU resources.
+* [awesome-webgpu](https://github.com/mikbry/awesome-webgpu) ⭐ 2,006 | 🐛 40 | 📅 2026-09-10 - A curated list of awesome WebGPU resources.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,857 | 🐛 5 | 📅 2020-12-30 - A list of graphic programming resources.
 * [awesome-webgl](https://github.com/sjfricke/awesome-webgl) ⭐ 1,543 | 🐛 21 | 📅 2026-04-02 - A curated list of awesome WebGL libraries, resources and
   much more.
@@ -348,4 +348,4 @@ Or you can reach me on Twitter:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
