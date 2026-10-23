@@ -126,7 +126,7 @@
 
 ## Matcaps
 
-* [Matcap repository](https://github.com/nidorx/matcaps) ⭐ 3,386 | 🐛 3 | 🌐 JavaScript | 📅 2025-10-13
+* [Matcap repository](https://github.com/nidorx/matcaps) ⭐ 3,389 | 🐛 3 | 🌐 JavaScript | 📅 2025-10-13
 
 ## 3D assets
 
@@ -169,18 +169,18 @@
 
 ## Debug/Optimization
 
-* [gltf-transform](https://gltf-transform.dev/): CLI to run on your GLTF file for a lot of different optimizations (welding, pruning, draco compression...). It also enables the conversion of textures into [KTX2](https://github.com/KhronosGroup/KTX-Software) ⭐ 1,388 | 🐛 55 | 🌐 C++ | 📅 2026-10-22 for optimizing textures on the GPU by [@donmccurdy](https://github.com/donmccurdy)
+* [gltf-transform](https://gltf-transform.dev/): CLI to run on your GLTF file for a lot of different optimizations (welding, pruning, draco compression...). It also enables the conversion of textures into [KTX2](https://github.com/KhronosGroup/KTX-Software) ⭐ 1,389 | 🐛 54 | 🌐 C++ | 📅 2026-10-22 for optimizing textures on the GPU by [@donmccurdy](https://github.com/donmccurdy)
 * [GLTF Report](https://gltf.report): Web app to diagnose, optimize your gltf files. Nice inspector that even support BASIS/KTX2 textures. by [@donmccurdy](https://github.com/donmccurdy)
 
 ## Scene Creation
 
-* [Three-Blender](https://github.com/ppmpreetham/three-blender) ⭐ 111 | 🐛 0 | 🌐 Python | 📅 2026-08-26: Blender based tool, to convert your Blender files directly to threeJS.
+* [Three-Blender](https://github.com/ppmpreetham/three-blender) ⭐ 112 | 🐛 0 | 🌐 Python | 📅 2026-08-26: Blender based tool, to convert your Blender files directly to threeJS.
 * [Polygonjs](https://polygonjs.com): Node-based WebGL design tool, used for procedural geometry, particles, materials
   and animation.
 
 ## 3D modeling
 
-* [img2threejs](https://github.com/hoainho/img2threejs) ⭐ 18,798 | 🐛 111 | 🌐 Python | 📅 2026-10-21: Rebuild the object in a reference image as a code-only, procedural, quality-gated Three.js model. Pure-Python stdlib tooling emits diffable TypeScript, no downloaded meshes. by [@hoainho](https://github.com/hoainho)
+* [img2threejs](https://github.com/hoainho/img2threejs) ⭐ 19,031 | 🐛 111 | 🌐 Python | 📅 2026-10-21: Rebuild the object in a reference image as a code-only, procedural, quality-gated Three.js model. Pure-Python stdlib tooling emits diffable TypeScript, no downloaded meshes. by [@hoainho](https://github.com/hoainho)
 * [Blender](https://www.blender.org/): Free and powerful to create your own 3D assets. A lot of export file extensions
   are available.
 * [Houdini](https://www.sidefx.com/products/houdini/): To create procedural 3D assets. The free licence "Houdini
@@ -201,7 +201,7 @@
 
 ### Online tools
 
-* [Shader Park](https://shaderpark.com/): A JavaScript library for creating interactive procedural 2D and 3D shaders. Helpful for raymarching shaders (the raymarcher is already built-in, SDFs and boolean operation between them already available). Works both in p5js style and GLSL. ([to contribute](https://github.com/shader-park/shader-park-core) ⭐ 828 | 🐛 42 | 🌐 JavaScript | 📅 2026-10-05) by [@shader-park](https://github.com/shader-park)
+* [Shader Park](https://shaderpark.com/): A JavaScript library for creating interactive procedural 2D and 3D shaders. Helpful for raymarching shaders (the raymarcher is already built-in, SDFs and boolean operation between them already available). Works both in p5js style and GLSL. ([to contribute](https://github.com/shader-park/shader-park-core) ⭐ 829 | 🐛 42 | 🌐 JavaScript | 📅 2026-10-05) by [@shader-park](https://github.com/shader-park)
 * [NodeToy](https://app.nodetoy.co/): The shader tool for the web. NodeToy provides creators a powerful editor to create incredible new shaders and visual effects. If you are a react-three-fiber user, consider checking [react-nodetoy](https://github.com/NodeToy/react-nodetoy) ⭐ 64 | 🐛 6 | 🌐 TypeScript | 📅 2023-11-08. All of this provided by [@Nodetoy](https://github.com/NodeToy).
 * [GraphToy](https://graphtoy.com/): Powerful tool to wrap your head around and test shaping signals in GLSL
   by [@iquilezles](https://twitter.com/iquilezles)
@@ -210,7 +210,7 @@
 
 ### Installed tools
 
-* [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) ⭐ 5,344 | 🐛 69 | 🌐 C++ | 📅 2026-10-21: Console-based GLSL Sandbox for 2D/3D shaders by [@patriciogv](https://twitter.com/patriciogv). Battle-tested by its creator, it enables to build a creative pipeline agnostic to the target platform and to iterate very fast and with less frictions for making a draft of your shaders ideas. A must-have in your toolkit.
+* [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) ⭐ 5,346 | 🐛 69 | 🌐 C++ | 📅 2026-10-21: Console-based GLSL Sandbox for 2D/3D shaders by [@patriciogv](https://twitter.com/patriciogv). Battle-tested by its creator, it enables to build a creative pipeline agnostic to the target platform and to iterate very fast and with less frictions for making a draft of your shaders ideas. A must-have in your toolkit.
 
 ## Sandbox
 
@@ -229,7 +229,7 @@
 
 ## GLSL/HLSL Shaders
 
-* [lygia](https://github.com/patriciogonzalezvivo/lygia) ⭐ 3,471 | 🐛 26 | 🌐 GLSL | 📅 2026-10-21:  a granular and multi-language shader library designed for performance and flexibility by [@patriciogv](https://twitter.com/patriciogv). A cross platform library that will help you iterate on your shaders very easily. Going deep in the code of a specific functionality can also help you learn GLSL/HLSL.
+* [lygia](https://github.com/patriciogonzalezvivo/lygia) ⭐ 3,472 | 🐛 26 | 🌐 GLSL | 📅 2026-10-21:  a granular and multi-language shader library designed for performance and flexibility by [@patriciogv](https://twitter.com/patriciogv). A cross platform library that will help you iterate on your shaders very easily. Going deep in the code of a specific functionality can also help you learn GLSL/HLSL.
 
 ## Animation
 
@@ -237,17 +237,17 @@
 
 ## Controls
 
-* [camera-controls](https://github.com/yomotsu/camera-controls) ⭐ 2,439 | 🐛 104 | 🌐 TypeScript | 📅 2026-10-21 by [@yomotsu](https://github.com/yomotsu/): A well-rounded camera controller for ThreeJS with damping, boundaries, and smooth transitions between viewpoints — more full-featured than the built-in OrbitControls.
+* [camera-controls](https://github.com/yomotsu/camera-controls) ⭐ 2,438 | 🐛 104 | 🌐 TypeScript | 📅 2026-10-21 by [@yomotsu](https://github.com/yomotsu/): A well-rounded camera controller for ThreeJS with damping, boundaries, and smooth transitions between viewpoints — more full-featured than the built-in OrbitControls.
 * [three-pivot-controls](https://github.com/bbdaii/three-pivot-controls) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-19 by [@bbdaii](https://github.com/bbdaii): A gizmo-style pivot control for vanilla ThreeJS — drag to translate, rotate, and scale objects with mouse and touch, inspired by drei's PivotControls but framework-free.
 
 ## Related Frameworks
 
 ### React
 
-* [react-three-fiber](https://github.com/pmndrs/react-three-fiber) ⭐ 33,164 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-21: A declarative way of handling your ThreeJS stuff for
+* [react-three-fiber](https://github.com/pmndrs/react-three-fiber) ⭐ 33,184 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-21: A declarative way of handling your ThreeJS stuff for
   React by [@pmndrs](https://github.com/pmndrs)
-* [drei](https://github.com/pmndrs/drei) ⭐ 10,042 | 🐛 144 | 🌐 JavaScript | 📅 2026-10-21: Useful helpers for react-three-fiber by [@pmndrs](https://github.com/pmndrs)
-* [react-postprocessing](https://github.com/pmndrs/react-postprocessing) ⭐ 1,478 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-21: A postprocessing wrapper for @react-three/fiber by [@pmndrs](https://github.com/pmndrs)
+* [drei](https://github.com/pmndrs/drei) ⭐ 10,050 | 🐛 144 | 🌐 JavaScript | 📅 2026-10-21: Useful helpers for react-three-fiber by [@pmndrs](https://github.com/pmndrs)
+* [react-postprocessing](https://github.com/pmndrs/react-postprocessing) ⭐ 1,481 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-21: A postprocessing wrapper for @react-three/fiber by [@pmndrs](https://github.com/pmndrs)
 * [morph-hero](https://github.com/othmarodev/morph-hero) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-07: A cinematic portfolio hero component where particles morph between a country flag and a name, with constellation lines and mouse parallax. Single particle system architecture. Live demo at [morph-hero.othmaro.dev](https://morph-hero.othmaro.dev) by [@othmarodev](https://github.com/othmarodev)
 * [react-spring](https://www.react-spring.dev/): An awesome library about physically accurate animations. Works smoothly also for react-three-fiber using the package [`@react-spring/three`](https://www.react-spring.dev/docs/guides/react-three-fiber)
 * [framer-motion](https://www.framer.com/motion/): A nice animation library for react, and can be used with react-three-fiber too through the [`framer-motion-3d`](https://www.framer.com/motion/three-introduction/) package usage. Very nice for binding animation on entering and leaving the viewport element.
@@ -273,9 +273,9 @@
 
 ## Physics
 
-* [Rapier](https://github.com/dimforge/rapier) ⭐ 5,901 | 🐛 80 | 🌐 Rust | 📅 2026-10-10 by [@dimforge](https://github.com/dimforge/)
-* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,581 | 🐛 177 | 🌐 C++ | 📅 2026-09-22
-* [cannon-es](https://github.com/pmndrs/cannon-es) ⭐ 2,065 | 🐛 59 | 🌐 TypeScript | 📅 2024-01-06 by [@pmndrs](https://github.com/pmndrs/)
+* [Rapier](https://github.com/dimforge/rapier) ⭐ 5,905 | 🐛 81 | 🌐 Rust | 📅 2026-10-10 by [@dimforge](https://github.com/dimforge/)
+* [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,582 | 🐛 177 | 🌐 C++ | 📅 2026-09-22
+* [cannon-es](https://github.com/pmndrs/cannon-es) ⭐ 2,064 | 🐛 59 | 🌐 TypeScript | 📅 2024-01-06 by [@pmndrs](https://github.com/pmndrs/)
 * [Oimo.js](https://lo-th.github.io/Oimo.js/#basic)
 
 ## Spatial querying & Raycasting
@@ -284,11 +284,11 @@
 
 ## Constructive Solid Geometry
 
-* [three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg) ⭐ 955 | 🐛 48 | 🌐 JavaScript | 📅 2026-09-27 by [@gkjohnson](https://github.com/gkjohnson/): A flexible, memory compact, fast and dynamic CSG implementation on top of three-mesh-bvh. (Amazing tool to perform some Boolean operations between meshes like intersection, difference, ...)
+* [three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg) ⭐ 956 | 🐛 48 | 🌐 JavaScript | 📅 2026-09-27 by [@gkjohnson](https://github.com/gkjohnson/): A flexible, memory compact, fast and dynamic CSG implementation on top of three-mesh-bvh. (Amazing tool to perform some Boolean operations between meshes like intersection, difference, ...)
 
 ## Pathfinding
 
-* [Pathfinding.js](https://github.com/qiao/PathFinding.js) ⭐ 8,720 | 🐛 106 | 🌐 JavaScript | 📅 2024-06-20 Useful library with tons of settings
+* [Pathfinding.js](https://github.com/qiao/PathFinding.js) ⭐ 8,719 | 🐛 106 | 🌐 JavaScript | 📅 2024-06-20 Useful library with tons of settings
 * [Three-pathfinding](https://github.com/donmccurdy/three-pathfinding) ⭐ 1,376 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-06 Three.js plugin for navigation
 * [Kompute](https://github.com/oguzeroglu/Kompute) ⭐ 30 | 🐛 6 | 🌐 JavaScript | 📅 2023-01-06 Easy to use steering library
 
@@ -332,20 +332,20 @@ Or you can reach me on Twitter:
 
 # Related Lists
 
-* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,614 | 🐛 100 | 📅 2024-05-17 - A curated list of awesome computer
+* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,617 | 🐛 100 | 📅 2024-05-17 - A curated list of awesome computer
   vision resources.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,550 | 🐛 47 | 🌐 Markdown | 📅 2026-10-21 - A awesome list about game development.
-* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,472 | 🐛 25 | 🌐 HTML | 📅 2026-07-21 - A carefully curated list of awesome
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,562 | 🐛 47 | 🌐 Markdown | 📅 2026-10-22 - A awesome list about game development.
+* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,474 | 🐛 25 | 🌐 HTML | 📅 2026-07-21 - A carefully curated list of awesome
   creative coding resources primarily for beginners/intermediates.
-* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,726 | 🐛 8 | 📅 2026-05-11 - A curated list of awesome Vulkan projects and ecosystem.
+* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,727 | 🐛 8 | 📅 2026-05-11 - A curated list of awesome Vulkan projects and ecosystem.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,451 | 🐛 0 | 📅 2026-01-09 - A curated list of awesome OpenGL libraries, debuggers and
   resources.
-* [awesome-webgpu](https://github.com/mikbry/awesome-webgpu) ⭐ 2,007 | 🐛 42 | 📅 2026-09-10 - A curated list of awesome WebGPU resources.
+* [awesome-webgpu](https://github.com/mikbry/awesome-webgpu) ⭐ 2,008 | 🐛 42 | 📅 2026-09-10 - A curated list of awesome WebGPU resources.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,857 | 🐛 5 | 📅 2020-12-30 - A list of graphic programming resources.
 * [awesome-webgl](https://github.com/sjfricke/awesome-webgl) ⭐ 1,543 | 🐛 22 | 📅 2026-04-02 - A curated list of awesome WebGL libraries, resources and
   much more.
-* [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) ⭐ 1,375 | 🐛 0 | 📅 2023-08-21 - A curated list of awesome GLSL resources.
+* [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) ⭐ 1,374 | 🐛 0 | 📅 2023-08-21 - A curated list of awesome GLSL resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
