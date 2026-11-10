@@ -184,11 +184,11 @@
                 "id": 12136516,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T12:53:10Z",
-                "open_issues": 51,
+                "last_commit": "2026-11-10T13:10:57Z",
+                "open_issues": 50,
                 "owner": "KhronosGroup",
                 "repo": "KTX-Software",
-                "stars": 1396,
+                "stars": 1398,
                 "topics": [
                   "ktx",
                   "ktx-library",
@@ -254,7 +254,7 @@
                 "open_issues": 120,
                 "owner": "img2threejs",
                 "repo": "img2threejs",
-                "stars": 21067,
+                "stars": 21133,
                 "topics": [
                   "3d",
                   "ai-agents",
@@ -295,7 +295,7 @@
                     "open_issues": 42,
                     "owner": "shader-park",
                     "repo": "shader-park-core",
-                    "stars": 832,
+                    "stars": 833,
                     "topics": [
                       "computer-graphics",
                       "creative-coding",
@@ -365,7 +365,7 @@
                     "open_issues": 69,
                     "owner": "patriciogonzalezvivo",
                     "repo": "glslViewer",
-                    "stars": 5355,
+                    "stars": 5356,
                     "topics": [
                       "c",
                       "c-plus-plus",
@@ -424,7 +424,7 @@
                 "open_issues": 26,
                 "owner": "patriciogonzalezvivo",
                 "repo": "lygia",
-                "stars": 3482,
+                "stars": 3483,
                 "topics": [
                   "cuda",
                   "directx",
@@ -526,10 +526,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-21T15:24:39Z",
-                    "open_issues": 33,
+                    "open_issues": 35,
                     "owner": "pmndrs",
                     "repo": "react-three-fiber",
-                    "stars": 33609,
+                    "stars": 33634,
                     "topics": [
                       "3d",
                       "animation",
@@ -557,7 +557,7 @@
                     "open_issues": 151,
                     "owner": "pmndrs",
                     "repo": "drei",
-                    "stars": 10135,
+                    "stars": 10138,
                     "topics": [
                       "helpers",
                       "hooks",
@@ -584,7 +584,7 @@
                     "open_issues": 12,
                     "owner": "pmndrs",
                     "repo": "react-postprocessing",
-                    "stars": 1516,
+                    "stars": 1547,
                     "topics": [
                       "3d",
                       "postprocessing",
@@ -698,11 +698,11 @@
                     "id": 571314349,
                     "language": "Vue",
                     "license": "MIT",
-                    "last_commit": "2026-11-03T14:05:54Z",
-                    "open_issues": 93,
+                    "last_commit": "2026-11-10T12:53:59Z",
+                    "open_issues": 95,
                     "owner": "Tresjs",
                     "repo": "tres",
-                    "stars": 3781,
+                    "stars": 3782,
                     "topics": [
                       "composable",
                       "custom-renderer",
@@ -887,7 +887,7 @@
                 "open_issues": 99,
                 "owner": "dimforge",
                 "repo": "rapier",
-                "stars": 6051,
+                "stars": 6052,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
@@ -956,11 +956,11 @@
                 "id": 118064695,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-06T07:19:06Z",
-                "open_issues": 92,
+                "last_commit": "2026-11-10T15:38:27Z",
+                "open_issues": 93,
                 "owner": "gkjohnson",
                 "repo": "three-mesh-bvh",
-                "stars": 3563,
+                "stars": 3564,
                 "topics": [
                   "acceleration",
                   "bounds",
@@ -1050,7 +1050,7 @@
                 "open_issues": 106,
                 "owner": "qiao",
                 "repo": "PathFinding.js",
-                "stars": 8724,
+                "stars": 8726,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:08:21.873Z"
@@ -1255,7 +1255,7 @@
             "open_issues": 100,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23632,
+            "stars": 23639,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:21.873Z"
@@ -1272,11 +1272,11 @@
             "id": 21958186,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-11-09T12:54:02Z",
+            "last_commit": "2026-11-10T14:11:36Z",
             "open_issues": 45,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17732,
+            "stars": 17746,
             "topics": [
               "art",
               "awesome",
@@ -1314,7 +1314,7 @@
             "open_issues": 33,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15570,
+            "stars": 15577,
             "topics": [
               "3d-graphics",
               "art",
@@ -1414,7 +1414,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-10T09:00:23Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "mikbry",
             "repo": "awesome-webgpu",
             "stars": 2019,
@@ -1447,7 +1447,7 @@
             "open_issues": 5,
             "owner": "mattdesl",
             "repo": "graphics-resources",
-            "stars": 1861,
+            "stars": 1862,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:21.873Z"
@@ -1464,11 +1464,11 @@
             "id": 77980522,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-10-26T01:39:48Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-10T19:42:36Z",
+            "open_issues": 2,
             "owner": "sjfricke",
             "repo": "awesome-webgl",
-            "stars": 1546,
+            "stars": 1547,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1522,7 +1522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:04:39.948Z",
+    "last_updated": "2026-11-10T20:31:49.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "3️⃣ A curated list of awesome ThreeJS resources",
@@ -1534,7 +1534,7 @@
       "open_issues": 55,
       "owner": "AxiomeCG",
       "repo": "awesome-threejs",
-      "stars": 1027,
+      "stars": 1028,
       "topics": [
         "awesome",
         "awesome-list",
